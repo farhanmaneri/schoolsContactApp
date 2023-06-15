@@ -14,9 +14,11 @@ body {
     display: flex;
     justify-content: space-between;
   }
-  @media (max-width: 768px) {
-    /* CSS rules to apply when the screen width is 768 pixels or smaller */
-  }
+  @media screen and (max-width: 524px) {
+header{
+ width:  fit-content;
+}  
+}
   header h1 {
     margin: 0;
     color: #000000c7;

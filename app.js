@@ -19,6 +19,7 @@
 
     displaySearchResults(results);
     inputElem.value = " ";
+    detailsElem.innerHTML = "";
   }
   // search via enter button
   inputElem.addEventListener('keyup', function (event) {
@@ -31,6 +32,8 @@
   // search via search button
 
   btnElem.addEventListener("click", search);
+
+  // function for display results
   function displaySearchResults(results) {
     listElem.innerHTML = "";
     results.forEach(function (school) {
@@ -46,6 +49,7 @@
       });
       listElem.appendChild(li);
     })
+    
   }
 
   function loadschoolDetails(school) {
