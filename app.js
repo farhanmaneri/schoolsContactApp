@@ -1,7 +1,8 @@
 // IIFE Immediately invoked function Expressions
 (async function () {
-  const response = await fetch("./schools.json");
+  const response = await fetch("./school.json");
   const schools = await response.json();
+  // console.log(schools)
 
   const inputElem = document.getElementById("searchInput");
   const btnElem = document.getElementById("searchBtn");
@@ -12,10 +13,12 @@
   function search() {
     const query = inputElem.value.toLowerCase();
     const results = schools.filter(function (school) {
-      return (school.SchoolName.toLowerCase().includes(query)
-        // ||          school.Tehsil.toLowerCase().includes(query)
-      )
-    });
+      // console.log(school.teachers)
+      return (school.schoolName.toLowerCase().includes(query)
+        // ||  school.teachers.toLowerCase().includes(query)
+        // ||  school.teachers.join(" ").toLowerCase().includes(query)
+        )
+      });
 
     displaySearchResults(results);
     inputElem.value = " ";
@@ -39,7 +42,7 @@
     results.forEach(function (school) {
       const li = document.createElement("li");
       const listItem = `
-            <h2 class="title">${school.SchoolName}</h2>
+            <h2 class="title">${school.schoolName}</h2>
             <div class="description"><h3>Emis Code ${school.EmisCode}</h3></div>
         `;
       li.innerHTML = listItem;
@@ -54,19 +57,20 @@
 
   function loadschoolDetails(school) {
     detailsElem.innerHTML = `
-       
-           <h4 class="title">Emis Code: <u>  ${school.EmisCode}</u></h4>
-           <h4 class="title">Schoo Level: <u>  ${school.schoolLevel}</u></h4>
-           <h4 class="title">Total Enrollement: <u>  ${school.enrollement}</u></h4>
-           <h4 class="title">Working Teaching Staff:  <u> ${school.teachingStaff}</u></h4>
-           <h4 class="title">Working Non-teaching Staff: <u>  ${school.nonTeachingStaff}</u></p>
-           `;
+    <h2 class="title">${school.schoolName}</h2>
+    <h3>Teachers:</h3>
+    <ol>${school.teachers.map(function (teacher) {
+      // console.log(teacher.teacherName)
+      return "<li>" + teacher.teacherName+" "+"(" +teacher.designation +")"+ "<br>"+school.EmisCode+ "</li>"
+    }).join("")}</ol>
+    <h3>Emis Code:</h3>
+    <div>${school.EmisCode}</div>
+    `;
   }
-  // <h3>School Detail:</h3>
-  // return "<li>" + tehsil + "</li>"
-  // <h3>Instruction:</h3>
-  // <div>${school.tehsil}</div>
-  //  <ul>${school.tehsil.map(function (tehsil) {
-  // }).join("")}</ul>
-
-})(); 
+    
+  })(); 
+  // <h4 class="title">Emis Code: <u>  ${school.EmisCode}</u></h4>
+  // <h4 class="title">Schoo Level: <u>  ${school.teacherName}</u></h4>
+  // <h4 class="title">Total Enrollement: <u>  ${school.enrollement}</u></h4>
+  // <h4 class="title">Working Teaching Staff:  <u> ${school.teachingStaff}</u></h4>
+  // <h4 class="title">Working Non-teaching Staff: <u>  ${school.nonTeachingStaff}</u></p>

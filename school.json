@@ -1,0 +1,78 @@
+
+[
+  {
+    "schoolName": "GGCMHS SWABI",
+    "EmisCode": "36275",
+    "teachers": [
+      {"teacherName": "Shahana Tabassum", "designation": "STT"},
+      {"teacherName": "Najma Bibi", "designation": "STT"},
+      {"teacherName": "Aisha Khalil", "designation": "SST (M/P)"},
+      {"teacherName": "Shabana Khalil", "designation": "SST (M/P)"},
+      {"teacherName": "Faiza Kanwal", "designation": "SST (IT)"},
+      {"teacherName": "Zeenat Begum", "designation": "SST (G)"},
+      {"teacherName": "Bibi Khalida", "designation": "SST (G)"},
+      {"teacherName": "Saeeda Begum", "designation": "SST (G)"},
+      {"teacherName": "Yasmin", "designation": "SST (G)"},
+      {"teacherName": "Ghazala Yasmin", "designation": "SST (G)"},
+      {"teacherName": "Ambreen Sultan", "designation": "SST (G)"},
+      {"teacherName": "Nighat Sabah", "designation": "SST (G)"},
+      {"teacherName": "Sayada Tabinda Shakir", "designation": "SST (G)"},
+      {"teacherName": "Amina Begum", "designation": "SST (G)"},
+      {"teacherName": "Robina Begum", "designation": "SST (G)"},
+      {"teacherName": "Nighat Seema", "designation": "SST (G)"},
+      {"teacherName": "Taiba Bibi", "designation": "SST (B/C)"},
+      {"teacherName": "Tanzeela Shaheen", "designation": "SST (B/C)"},
+      {"teacherName": "Shagufta Sultan", "designation": "S Qaria"}
+    ]
+  },
+  {
+    "schoolName": "GGHS ANBAR",
+    "EmisCode": "34484",
+    "teachers": [
+      {"teacherName": "Nadia Gul", "designation": "STT"},
+      {"teacherName": "Nazish", "designation": "SST (M/P)"},
+      {"teacherName": "Hajra Khan", "designation": "SST (IT)"},
+      {"teacherName": "Nargis Begum", "designation": "SST (G)"},
+      {"teacherName": "Bushra Jabeen", "designation": "SST (G)"},
+      {"teacherName": "Nuzhat Bibi", "designation": "SST (B/C)"},
+      {"teacherName": "Saiqa Begum", "designation": "S Qaria"},
+      {"teacherName": "Reema", "designation": "S PET"},
+      {"teacherName": "Naveeda Gul", "designation": "S DM"},
+      {"teacherName": "Hamida Bibi", "designation": "S CT"},
+      {"teacherName": "Shazia Begum", "designation": "S CT"},
+      {"teacherName": "Noreen Kausar", "designation": "S AT"},
+      {"teacherName": "Tahira Naz", "designation": "CT(IT)"},
+      {"teacherName": "Nishat Begum", "designation": "CT"},
+      {"teacherName": "Nazia", "designation": "CT"},
+      {"teacherName": "Bibi Khadija", "designation": "CT"}
+    ]
+  },
+  {
+    "schoolName": "GGHS BAM KHEL",
+    "EmisCode": "36278",
+    "teachers": [
+      {"teacherName": "Huma Gul", "designation": "STT"},
+      {"teacherName": "Zainab", "designation": "SST (M/P)"},
+      {"teacherName": "Yosra", "designation": "SST (IT)"},
+      {"teacherName": "Amina Begum", "designation": "SST (G)"},
+      {"teacherName": "Najma Jamil", "designation": "SST (G)"},
+      {"teacherName": "Javaria", "designation": "SST (G)"},
+      {"teacherName": "Nosheen Khan", "designation": "SST (B/C)"},
+      {"teacherName": "Uzma Gul", "designation": "S Qaria"},
+      {"teacherName": "Shaista Begum", "designation": "S PET"},
+      {"teacherName": "Hussan Pari", "designation": "S DM"},
+      {"teacherName": "Fatima Bibi", "designation": "S CT"},
+      {"teacherName": "Saeeda Tabassum", "designation": "S CT"},
+      {"teacherName": "Shamim Sultana", "designation": "S CT"},
+      {"teacherName": "TAHIRA NAZ", "designation": "S CT"},
+      {"teacherName": "Robeena Mumtaz Tahira", "designation": "S AT"},
+      {"teacherName": "Ambareen Bibi", "designation": "CT(IT)"},
+      {"teacherName": "Musarrat Andaleeb", "designation": "CT"},
+      {"teacherName": "Yusra Naz", "designation": "CT"},
+      {"teacherName": "Hira Khurshid", "designation": "CT"},
+      {"teacherName": "Amshaida Naz", "designation": "CT"},
+      {"teacherName": "Seema", "designation": "CT"},
+      {"teacherName": "Tanzeela Yousafzai", "designation": "CT"}
+    ]
+  }
+]
