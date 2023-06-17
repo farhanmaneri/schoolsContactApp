@@ -14,10 +14,30 @@ body {
     display: flex;
     justify-content: space-between;
   }
+  .search-form-container{
+    display: flex;
+  }
   @media screen and (max-width: 524px) {
 header{
- width:  fit-content;
+ width:  100%;
+ height: auto;
+  padding: 20px 5px;
 }  
+.main_header{
+  display: flex;
+  flex-direction: column;
+}
+.school_heading{
+  font-size: 35px;
+  text-align: center;
+}
+.search-form-container{
+  display: flex;
+}
+main {
+  
+  margin-top: 120px !important;
+}
 }
   header h1 {
     margin: 0;
@@ -25,7 +45,7 @@ header{
   }
   
   #searchInput {
-    width: 200px;
+    width: 100%;
     padding: 10px;
     outline: none;
     border-radius: 10px;
@@ -42,6 +62,11 @@ header{
     border-radius: 10px;
     padding: 12px;
     min-width: 120px;
+    cursor: pointer;
+    &:hover{
+    background-color: #15154d;
+
+    }
   }
   
   main {
