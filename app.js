@@ -43,7 +43,7 @@
       const li = document.createElement("li");
       const listItem = `
             <h2 class="title">${school.schoolName}</h2>
-            <div class="description"><h3>Emis Code ${school.EmisCode}</h3></div>
+            <div class="description"><h3>Emis Code ${school.contactNo}</h3></div>
         `;
       li.innerHTML = listItem;
       // function for loading school detail on clicking li i.e school
@@ -61,10 +61,10 @@
     <h3>Teachers:</h3>
     <ol>${school.teachers.map(function (teacher) {
       // console.log(teacher.teacherName)
-      return "<li>" + teacher.teacherName+" "+"(" +teacher.designation +")"+ "<br>"+school.EmisCode+ "</li>"
+      return "<li>" + teacher.teacherName+" "+"(" +teacher.designation +")" + "<br>"+teacher.contactNo + "<br>"+teacher.cnic + "</li>"
     }).join("")}</ol>
     <h3>Emis Code:</h3>
-    <div>${school.EmisCode}</div>
+    
     `;
   }
     

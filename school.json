@@ -4,75 +4,934 @@
     "schoolName": "GGCMHS SWABI",
     "EmisCode": "36275",
     "teachers": [
-      {"teacherName": "Shahana Tabassum", "designation": "STT"},
-      {"teacherName": "Najma Bibi", "designation": "STT"},
-      {"teacherName": "Aisha Khalil", "designation": "SST (M/P)"},
-      {"teacherName": "Shabana Khalil", "designation": "SST (M/P)"},
-      {"teacherName": "Faiza Kanwal", "designation": "SST (IT)"},
-      {"teacherName": "Zeenat Begum", "designation": "SST (G)"},
-      {"teacherName": "Bibi Khalida", "designation": "SST (G)"},
-      {"teacherName": "Saeeda Begum", "designation": "SST (G)"},
-      {"teacherName": "Yasmin", "designation": "SST (G)"},
-      {"teacherName": "Ghazala Yasmin", "designation": "SST (G)"},
-      {"teacherName": "Ambreen Sultan", "designation": "SST (G)"},
-      {"teacherName": "Nighat Sabah", "designation": "SST (G)"},
-      {"teacherName": "Sayada Tabinda Shakir", "designation": "SST (G)"},
-      {"teacherName": "Amina Begum", "designation": "SST (G)"},
-      {"teacherName": "Robina Begum", "designation": "SST (G)"},
-      {"teacherName": "Nighat Seema", "designation": "SST (G)"},
-      {"teacherName": "Taiba Bibi", "designation": "SST (B/C)"},
-      {"teacherName": "Tanzeela Shaheen", "designation": "SST (B/C)"},
-      {"teacherName": "Shagufta Sultan", "designation": "S Qaria"}
+      { "teacherName":"Shahana Tabassum", "designation": "STT" , "level": "High", "cnic": "1620208760338", "contactNo": "0307-5038320"}, 
+{ "teacherName":"Najma Bibi", "designation": "STT" , "level": "High", "cnic": "1620259203594", "contactNo": "0314-2272471"}, 
+{ "teacherName":"Aisha Khalil", "designation": "SST (M/P))" , "level": "High", "cnic": "1620214356770", "contactNo": "0346-8350346"}, 
+{ "teacherName":"Shabana Khalil", "designation": "SST (M/P))" , "level": "High", "cnic": "1620228993570", "contactNo": "0315-9750173"}, 
+{ "teacherName":"Faiza Kanwal", "designation": "SST (IT)" , "level": "High", "cnic": "1420240198430", "contactNo": "0"}, 
+{ "teacherName":"Zeenat Begum", "designation": "SST (G)" , "level": "High", "cnic": "1620208600322", "contactNo": "0336-9779745"}, 
+{ "teacherName":"Bibi Khalida", "designation": "SST (G)" , "level": "High", "cnic": "1620208839876", "contactNo": "0314-9766443"}, 
+{ "teacherName":"Amina Begum", "designation": "SST (G)" , "level": "High", "cnic": "1620248166702", "contactNo": "0333-9423260"}, 
+{ "teacherName":"Robina Begum", "designation": "SST (G)" , "level": "High", "cnic": "1620276884426", "contactNo": "0938-222384"}, 
+{ "teacherName":"Nighat Seema", "designation": "SST (G)" , "level": "High", "cnic": "1620290208140", "contactNo": "0313-3909135"}, 
+{ "teacherName":"Taiba Bibi", "designation": "SST (B/C)" , "level": "High", "cnic": "1620225694012", "contactNo": "0332-9433949"}, 
+{ "teacherName":"Tanzeela Shaheen", "designation": "SST (B/C)" , "level": "High", "cnic": "1620243512666", "contactNo": "0347-9375218"}, 
+{ "teacherName":"Shagufta Sultan", "designation": "S Qaria" , "level": "High", "cnic": "1620209300674", "contactNo": "0333-9422657"}, 
+{ "teacherName":"Nabeela Begum", "designation": "S PET" , "level": "High", "cnic": "1620208460156", "contactNo": "0336-9709105"}, 
+{ "teacherName":"Shazia Aman", "designation": "S PET" , "level": "High", "cnic": "1620251670568", "contactNo": "0332-9426283"}, 
+{ "teacherName":"Samina Yasmin", "designation": "S DM" , "level": "High", "cnic": "1620208927148", "contactNo": "0333-9420690"}, 
+{ "teacherName":"Parveen Begum", "designation": "S DM" , "level": "High", "cnic": "1620271539284", "contactNo": "0334-8695218"}, 
+{ "teacherName":"Khalida", "designation": "S CT" , "level": "High", "cnic": "1620206727398", "contactNo": "0333-9425271"}, 
+{ "teacherName":"Nighat Yasmeen", "designation": "S CT" , "level": "High", "cnic": "1620208226952", "contactNo": "0332-9417506"}, 
+{ "teacherName":"Nishat Begum", "designation": "S CT" , "level": "High", "cnic": "1620209121802", "contactNo": "0345-9506950"}, 
+{ "teacherName":"Ansa Zaib", "designation": "S CT" , "level": "High", "cnic": "1620221993674", "contactNo": "0311-9449719"}, 
+{ "teacherName":"Riffat Begum", "designation": "S CT" , "level": "High", "cnic": "1620252360682", "contactNo": "0335-9535499"}, 
+{ "teacherName":"Qamar Akbar", "designation": "S CT" , "level": "High", "cnic": "4250115558402", "contactNo": "03463202071"}, 
+{ "teacherName":"Munira Begum", "designation": "S AT" , "level": "High", "cnic": "1620247499682", "contactNo": "0313-9080939"}, 
+{ "teacherName":"Afnan", "designation": "S AT" , "level": "High", "cnic": "1620280560650", "contactNo": "0310-9487064"}, 
+{ "teacherName":"Kausar Tanveer", "designation": "Principal (B-19)" , "level": "High", "cnic": "1310109476750", "contactNo": "0334-9672261"}, 
+{ "teacherName":"Aqeela Naz", "designation": "CT" , "level": "High", "cnic": "1620263811534", "contactNo": "0305-9408922"}, 
+{ "teacherName":"Shaista", "designation": "CT" , "level": "High", "cnic": "1620278090938", "contactNo": "0332-9423491"}, 
+{ "teacherName":"Gul Nihar", "designation": "CT" , "level": "High", "cnic": "1620279774590", "contactNo": "0313-9304122"}, 
+{ "teacherName":"Sumaira Qayyum", "designation": "CT" , "level": "High", "cnic": "1620296920086", "contactNo": "0313-9489288"}
+
     ]
   },
   {
     "schoolName": "GGHS ANBAR",
     "EmisCode": "34484",
     "teachers": [
-      {"teacherName": "Nadia Gul", "designation": "STT"},
-      {"teacherName": "Nazish", "designation": "SST (M/P)"},
-      {"teacherName": "Hajra Khan", "designation": "SST (IT)"},
-      {"teacherName": "Nargis Begum", "designation": "SST (G)"},
-      {"teacherName": "Bushra Jabeen", "designation": "SST (G)"},
-      {"teacherName": "Nuzhat Bibi", "designation": "SST (B/C)"},
-      {"teacherName": "Saiqa Begum", "designation": "S Qaria"},
-      {"teacherName": "Reema", "designation": "S PET"},
-      {"teacherName": "Naveeda Gul", "designation": "S DM"},
-      {"teacherName": "Hamida Bibi", "designation": "S CT"},
-      {"teacherName": "Shazia Begum", "designation": "S CT"},
-      {"teacherName": "Noreen Kausar", "designation": "S AT"},
-      {"teacherName": "Tahira Naz", "designation": "CT(IT)"},
-      {"teacherName": "Nishat Begum", "designation": "CT"},
-      {"teacherName": "Nazia", "designation": "CT"},
-      {"teacherName": "Bibi Khadija", "designation": "CT"}
+      { "teacherName":"Nadia Gul", "designation": "STT" , "level": "High", "cnic": "1620121947384", "contactNo": "0344-0651669"}, 
+      { "teacherName":"Nazish", "designation": "SST (M/P))" , "level": "High", "cnic": "1620175685656", "contactNo": "0349-9105841"}, 
+      { "teacherName":"Hajra khan", "designation": "SST (IT)" , "level": "High", "cnic": "1620223686494", "contactNo": "0333-0500365"}, 
+      { "teacherName":"Nuzhat Bibi", "designation": "SST (B/C)" , "level": "High", "cnic": "1310108425108", "contactNo": "0312-9378726"}, 
+      { "teacherName":"saiqa begum", "designation": "S Qaria" , "level": "High", "cnic": "1620106814578", "contactNo": "0336-1912818"}, 
+      { "teacherName":"Reema", "designation": "S PET" , "level": "High", "cnic": "1620235896850", "contactNo": "0310-1198231"}, 
+      { "teacherName":"Naveeda Gul", "designation": "S DM" , "level": "High", "cnic": "1620208217954", "contactNo": "0346-9828463"}, 
+      { "teacherName":"Hamida  bibi", "designation": "S CT" , "level": "High", "cnic": "1330112870638", "contactNo": "0343-5689995"}, 
+      { "teacherName":"Shazia Begum", "designation": "S CT" , "level": "High", "cnic": "1620188650202", "contactNo": "0344-9218030"}, 
+      { "teacherName":"Noreen Kausar", "designation": "S AT" , "level": "High", "cnic": "1620208512670", "contactNo": "0306-5680842"}, 
+      { "teacherName":"Nazia", "designation": "CT" , "level": "High", "cnic": "1620143033188", "contactNo": "0349-9324203"}, 
+      { "teacherName":"Bibi Khadija", "designation": "CT" , "level": "High", "cnic": "1620244726042", "contactNo": "0349-9865819"}
+      
     ]
   },
   {
     "schoolName": "GGHS BAM KHEL",
     "EmisCode": "36278",
     "teachers": [
-      {"teacherName": "Huma Gul", "designation": "STT"},
-      {"teacherName": "Zainab", "designation": "SST (M/P)"},
-      {"teacherName": "Yosra", "designation": "SST (IT)"},
-      {"teacherName": "Amina Begum", "designation": "SST (G)"},
-      {"teacherName": "Najma Jamil", "designation": "SST (G)"},
-      {"teacherName": "Javaria", "designation": "SST (G)"},
-      {"teacherName": "Nosheen Khan", "designation": "SST (B/C)"},
-      {"teacherName": "Uzma Gul", "designation": "S Qaria"},
-      {"teacherName": "Shaista Begum", "designation": "S PET"},
-      {"teacherName": "Hussan Pari", "designation": "S DM"},
-      {"teacherName": "Fatima Bibi", "designation": "S CT"},
-      {"teacherName": "Saeeda Tabassum", "designation": "S CT"},
-      {"teacherName": "Shamim Sultana", "designation": "S CT"},
-      {"teacherName": "TAHIRA NAZ", "designation": "S CT"},
-      {"teacherName": "Robeena Mumtaz Tahira", "designation": "S AT"},
-      {"teacherName": "Ambareen Bibi", "designation": "CT(IT)"},
-      {"teacherName": "Musarrat Andaleeb", "designation": "CT"},
-      {"teacherName": "Yusra Naz", "designation": "CT"},
-      {"teacherName": "Hira Khurshid", "designation": "CT"},
-      {"teacherName": "Amshaida Naz", "designation": "CT"},
-      {"teacherName": "Seema", "designation": "CT"},
-      {"teacherName": "Tanzeela Yousafzai", "designation": "CT"}
+      { "teacherName":"Huma gul", "designation": "STT" , "level": "High", "cnic": "1620277578152", "contactNo": "0336-9412648"}, 
+{ "teacherName":"Zainab", "designation": "SST (M/P))" , "level": "High", "cnic": "1620225673566", "contactNo": "0340-5819688"}, 
+{ "teacherName":"Yosra", "designation": "SST (IT)" , "level": "High", "cnic": "1620240262176", "contactNo": "0312-3636953"}, 
+{ "teacherName":"Amina Begum", "designation": "SST (G)" , "level": "High", "cnic": "1620208296258", "contactNo": "0303-5909814"}, 
+{ "teacherName":"Najma Jamil", "designation": "SST (G)" , "level": "High", "cnic": "1620208668910", "contactNo": "0315-4924414"}, 
+{ "teacherName":"Javaria", "designation": "SST (G)" , "level": "High", "cnic": "4130848258914", "contactNo": "0314-9193748"}, 
+{ "teacherName":"Nosheen Khan", "designation": "SST (B/C)" , "level": "High", "cnic": "1620268967224", "contactNo": "0332-5560333"}, 
+{ "teacherName":"Uzma gul", "designation": "S Qaria" , "level": "High", "cnic": "1620242811678", "contactNo": "0311-1960346"}, 
+{ "teacherName":"Shaista Begum", "designation": "S PET" , "level": "High", "cnic": "1620209002016", "contactNo": "0333-9448710"}, 
+{ "teacherName":"Hussan Pari", "designation": "S DM" , "level": "High", "cnic": "1620293761062", "contactNo": "0301-8341037"}, 
+{ "teacherName":"Fatima Bibi", "designation": "S CT" , "level": "High", "cnic": "1620208406674", "contactNo": "0306-8348452"}, 
+{ "teacherName":"Saeeda Tabassum", "designation": "S CT" , "level": "High", "cnic": "1620208555904", "contactNo": "0312-9888256"}, 
+{ "teacherName":"Shamim sultana", "designation": "S CT" , "level": "High", "cnic": "1620208651804", "contactNo": "0308-5685781"}, 
+{ "teacherName":"TAHIRA NAZ", "designation": "S CT" , "level": "High", "cnic": "1620209002062", "contactNo": "0341-8001783"}, 
+{ "teacherName":"Robeena Mumtaz Tahira", "designation": "S AT" , "level": "High", "cnic": "1620208949866", "contactNo": "0346-9804723"}, 
+{ "teacherName":"Ambareen Bibi", "designation": "CT(IT)" , "level": "High", "cnic": "3710153843174", "contactNo": "0315-9705654"}, 
+{ "teacherName":"Amshaida Naz", "designation": "CT" , "level": "High", "cnic": "1620266147516", "contactNo": "0315-9885103"}, 
+{ "teacherName":"Seema", "designation": "CT" , "level": "High", "cnic": "1620269311930", "contactNo": "0335-9132175"}, 
+{ "teacherName":"Tanzeela Yousafzai", "designation": "CT" , "level": "High", "cnic": "1620277362706", "contactNo": "0343-9068551"} 
+
     ]
+  },
+  {
+    "schoolName": "GGHS BATAKARA",
+    "EmisCode": " ",
+    "teachers": [
+      { "teacherName":"Umme Aiman", "designation": "STT" , "level": "High", "cnic": "1620261625704", "contactNo": "0346-6733844"}, 
+      { "teacherName":"Hina", "designation": "SST (M/P))" , "level": "High", "cnic": "1620285840920", "contactNo": "0331-5885177"}, 
+      { "teacherName":"Reena Rashid", "designation": "SST (IT)" , "level": "High", "cnic": "1620306004162", "contactNo": "0317-5092104"}, 
+      { "teacherName":"Nusrat Shaheen", "designation": "SST (G)" , "level": "High", "cnic": "1620208169728", "contactNo": "0"}, 
+      { "teacherName":"Basrina", "designation": "SST (G)" , "level": "High", "cnic": "1620208436526", "contactNo": "0315-950345"}, 
+      { "teacherName":"Fatima Waqar", "designation": "SST (B/C)" , "level": "High", "cnic": "1610197842802", "contactNo": "0315-9098891"}, 
+      { "teacherName":"Iram Naz", "designation": "S CT" , "level": "High", "cnic": "1620208271050", "contactNo": "0308-5670360"}, 
+      { "teacherName":"Kalsoom Malik", "designation": "S CT" , "level": "High", "cnic": "1620268485122", "contactNo": "0312-9159925"}, 
+      { "teacherName":"Nabeela Qamar", "designation": "S CT" , "level": "High", "cnic": "1620272169470", "contactNo": "0346-9810354"}, 
+      { "teacherName":"Tahira Sardar", "designation": "CT" , "level": "High", "cnic": "1620209116188", "contactNo": "0343-9610342"}, 
+      { "teacherName":"Abida", "designation": "CT" , "level": "High", "cnic": "1620299951448", "contactNo": "0312-0518913"}
+      
+    ]
+  },
+  {
+    "schoolName": "GGHS BAZAR",
+    "EmisCode": " ",
+    "teachers": [
+      { "teacherName":"Enaya Tariq", "designation": "TT" , "level": "High", "cnic": "1620266673294", "contactNo": "0331-9144055"}, 
+{ "teacherName":"Nasiha", "designation": "SST (M/P))" , "level": "High", "cnic": "1620190012572", "contactNo": "0347-8980050"}, 
+{ "teacherName":"Rasheeda Begum", "designation": "SST (G)" , "level": "High", "cnic": "1620209076260", "contactNo": "0346-4608364"}, 
+{ "teacherName":"Moneeba Naz", "designation": "SST (G)" , "level": "High", "cnic": "1730125779080", "contactNo": "0311-9797394"}, 
+{ "teacherName":"Saima Ali", "designation": "SST (B/C)" , "level": "High", "cnic": "1620151523878", "contactNo": "0315-5235356"}, 
+{ "teacherName":"Samina Bibi", "designation": "S CT" , "level": "High", "cnic": "1620106943262", "contactNo": "0333-5066450"}
+    ]
+  },
+  {
+    "schoolName": "GGHS BEKA",
+    "EmisCode": " ",
+    "teachers": [
+      { "teacherName":"Hameeda Akhter", "designation": "SST (G)" , "level": "High", "cnic": "1620176917646", "contactNo": "0"}, 
+{ "teacherName":"Madeeha Aziz", "designation": "SST (G)" , "level": "High", "cnic": "1730150619004", "contactNo": "0334-9248311"}, 
+{ "teacherName":"Nighat Seema", "designation": "SST (B/C)" , "level": "High", "cnic": "1620219850758", "contactNo": "0340-9658831"}, 
+{ "teacherName":"Dil Naz", "designation": "S CT" , "level": "High", "cnic": "1620106655140", "contactNo": "0317-1680487"}, 
+{ "teacherName":"Ranaz Ajmal", "designation": "S CT" , "level": "High", "cnic": "1620140478114", "contactNo": "0345-9162945"}, 
+{ "teacherName":"Rabia Tariq", "designation": "S CT" , "level": "High", "cnic": "1620206922482", "contactNo": "0344-9188249"}, 
+{ "teacherName":"Zakia Sikandar", "designation": "S AT" , "level": "High", "cnic": "1620109798140", "contactNo": "0315-9071472"}, 
+{ "teacherName":"Husnulwara", "designation": "Qaria" , "level": "High", "cnic": "1620172798202", "contactNo": "0315-9473294"}, 
+{ "teacherName":"Saba Gul", "designation": "PET" , "level": "High", "cnic": "1620102644222", "contactNo": "0314-3017206"}, 
+{ "teacherName":"Saima Naz", "designation": "DM" , "level": "High", "cnic": "1620212216338", "contactNo": "0"}
+    ]
+  },
+  {
+    "schoolName": "GGHS DAGAI GADOON",
+    "EmisCode": " ",
+    "teachers": [
+      { "teacherName":"Summaya ameer", "designation": "SST (B/C)" , "level": "High", "cnic": "1620306132466", "contactNo": "0318-9989950"}, 
+{ "teacherName":"Nishat Begum", "designation": "S PET" , "level": "High", "cnic": "1620233737066", "contactNo": "0312-9986286"}, 
+{ "teacherName":"Minhaj begum", "designation": "S AT" , "level": "High", "cnic": "1620222638220", "contactNo": "0317-9526808"}, 
+{ "teacherName":"Khushboo Ziyad", "designation": "Qaria" , "level": "High", "cnic": "1620265023102", "contactNo": "0332-5002466"}, 
+{ "teacherName":"Shakeela Firdous", "designation": "DM" , "level": "High", "cnic": "1620266759190", "contactNo": "0313-9806851"}, 
+{ "teacherName":"Nizakat begum", "designation": "CT" , "level": "High", "cnic": "1620242758590", "contactNo": "0316-9122907"}, 
+{ "teacherName":"Bus Bibi", "designation": "CT" , "level": "High", "cnic": "1620264697662", "contactNo": "0313-9505332"}
+
+]
+  },
+  {
+    "schoolName": "GGHS DARRA",
+    "EmisCode": " ",
+    "teachers": [
+      { "teacherName":"Khadija Jawad", "designation": "TT" , "level": "High", "cnic": "1620255708532", "contactNo": "0315-9434046"}, 
+      { "teacherName":"Nazma", "designation": "SST (M/P))" , "level": "High", "cnic": "1620291740576", "contactNo": "0331-9242680"}, 
+      { "teacherName":"Afia", "designation": "SST (G)" , "level": "High", "cnic": "1620208920534", "contactNo": "0314-9903096"}, 
+      { "teacherName":"Sarwat Shahnaz", "designation": "SST (G)" , "level": "High", "cnic": "1620209347720", "contactNo": "0334-8692396"}, 
+      { "teacherName":"Shafqat", "designation": "SST (B/C)" , "level": "High", "cnic": "1620209400442", "contactNo": "0322-9982008"}, 
+      { "teacherName":"Rabia begum", "designation": "S CT" , "level": "High", "cnic": "1620260667434", "contactNo": "0312-7144088"}, 
+      { "teacherName":"Nazima Begum", "designation": "S AT" , "level": "High", "cnic": "1620209123544", "contactNo": "0313-4266011"}, 
+      { "teacherName":"Neelum Naz", "designation": "Qaria" , "level": "High", "cnic": "1620230922408", "contactNo": "0311-9296313"}, 
+      { "teacherName":"Mehrun nisa", "designation": "PET" , "level": "High", "cnic": "1620230570556", "contactNo": "0316-9260812"}, 
+      { "teacherName":"Nargis Shaheen", "designation": "Head Master / Mistress" , "level": "High", "cnic": "1620231825866", "contactNo": "0333-9455251"}, 
+      { "teacherName":"Nasira rahim", "designation": "DM" , "level": "High", "cnic": "1620208915084", "contactNo": "0314-9883066"}, 
+      { "teacherName":"Razia Begum", "designation": "CT" , "level": "High", "cnic": "1620208172372", "contactNo": "0347-5602974"}, 
+      { "teacherName":"Shaiza Begum", "designation": "CT" , "level": "High", "cnic": "1620252022586", "contactNo": "0311-9459692"}
+            
+]
+  },
+  {
+    "schoolName": "GGHS DOBIAN",
+    "EmisCode": " ",
+    "teachers": [
+      { "teacherName":"Muneeza Akbar", "designation": "SST (M/P))" , "level": "High", "cnic": "1620198862898", "contactNo": "0301-8359501"}, 
+{ "teacherName":"Shakira bibi", "designation": "SST (IT)" , "level": "High", "cnic": "1620194076928", "contactNo": "0347-9415154"}, 
+{ "teacherName":"huma gul", "designation": "SST (G)" , "level": "High", "cnic": "1620106660840", "contactNo": "0341-5530062"}, 
+{ "teacherName":"Hurriyat Begum", "designation": "SST (G)" , "level": "High", "cnic": "1620106684088", "contactNo": "0343-9661191"}, 
+{ "teacherName":"Fozia Nafees", "designation": "SST (G)" , "level": "High", "cnic": "1620168249970", "contactNo": "0314-4401191"}, 
+{ "teacherName":"Muneeba Shakir", "designation": "SST (B/C)" , "level": "High", "cnic": "1620204805078", "contactNo": "0342-9109356"}, 
+{ "teacherName":"Seema Shehzadi", "designation": "S PET" , "level": "High", "cnic": "1620208837468", "contactNo": "0333-9899966"}, 
+{ "teacherName":"Dilshad", "designation": "S DM" , "level": "High", "cnic": "1620209077482", "contactNo": "0308-3786335"}, 
+{ "teacherName":"Farzana Shaheen", "designation": "S CT" , "level": "High", "cnic": "1330204928934", "contactNo": "0312-7377055"}, 
+{ "teacherName":"Naseem", "designation": "S CT" , "level": "High", "cnic": "1620106767086", "contactNo": "0341-3581348"}, 
+{ "teacherName":"Tehseen Nisar", "designation": "S CT" , "level": "High", "cnic": "1620106966606", "contactNo": "0343-1929840"}, 
+{ "teacherName":"Sharafat Begum", "designation": "S CT" , "level": "High", "cnic": "1620106966678", "contactNo": "0343-9022943"}, 
+{ "teacherName":"Khushranga", "designation": "S CT" , "level": "High", "cnic": "1620209323422", "contactNo": "0345-9503569"}, 
+{ "teacherName":"shahnaz begum", "designation": "Qaria" , "level": "High", "cnic": "1610179732440", "contactNo": "0343-9193438"}, 
+{ "teacherName":"Majida Khatoon", "designation": "Principal (B-19)" , "level": "High", "cnic": "1610195432248", "contactNo": "0347-9308745"}, 
+{ "teacherName":"Safia Naz", "designation": "CT" , "level": "High", "cnic": "1620106886684", "contactNo": "0343-9194093"}, 
+{ "teacherName":"Nosheen Ghaffar", "designation": "CT" , "level": "High", "cnic": "1620118402292", "contactNo": "0347-2329423"}, 
+{ "teacherName":"Memoona Kanwal", "designation": "CT" , "level": "High", "cnic": "1620119612828", "contactNo": "0312-4455660"}, 
+{ "teacherName":"Waraq Naz", "designation": "AT" , "level": "High", "cnic": "1620104732972", "contactNo": "0300-9080585"} 
+
+]
+  },
+  {
+    "schoolName": "GGHS DODHER",
+    "EmisCode": " ",
+    "teachers": [
+      { "teacherName":"Yasmin Sultana", "designation": "STT" , "level": "High", "cnic": "1620208177224", "contactNo": "0314-9774887"}, 
+{ "teacherName":"Naila Bibi", "designation": "SST (M/P))" , "level": "High", "cnic": "1620209062976", "contactNo": "0314-9613587"}, 
+{ "teacherName":"Aziza Begum", "designation": "SST (G)" , "level": "High", "cnic": "1620232006208", "contactNo": "0314-5958528"}, 
+{ "teacherName":"Shumaila", "designation": "SST (G)" , "level": "High", "cnic": "1620266254274", "contactNo": "0334-8691828"}, 
+{ "teacherName":"Aisha Bibi", "designation": "SST (B/C)" , "level": "High", "cnic": "1620293653748", "contactNo": "0346-1925158"}, 
+{ "teacherName":"Tahira Bibi", "designation": "S DM" , "level": "High", "cnic": "1620269997076", "contactNo": "0315-4880480"}, 
+{ "teacherName":"Safia Bano", "designation": "S CT" , "level": "High", "cnic": "1620208851426", "contactNo": "0315-9913403"}, 
+{ "teacherName":"Shakila Bibi", "designation": "S CT" , "level": "High", "cnic": "1620209217092", "contactNo": "0343-9436690"}, 
+{ "teacherName":"Khalida Begum", "designation": "Qaria" , "level": "High", "cnic": "1620233548808", "contactNo": "0317-9668893"}, 
+{ "teacherName":"Nida", "designation": "PET" , "level": "High", "cnic": "6110119906866", "contactNo": "0332-5615945"}, 
+{ "teacherName":"Zaiqat Begum", "designation": "Head Master / Mistress" , "level": "High", "cnic": "1620208716588", "contactNo": "0346-9524119"}
+
+]
+  },
+  {
+    "schoolName": "GGHS GANDAF",
+    "EmisCode": " ",
+    "teachers": [
+      { "teacherName":"Neelam Jahan", "designation": "SST (IT)" , "level": "High", "cnic": "1620405902288", "contactNo": "0313-2152722"}, 
+{ "teacherName":"Salma", "designation": "SST (G)" , "level": "High", "cnic": "1620208125442", "contactNo": "0314-9978906"}, 
+{ "teacherName":"Khatmun Nisa", "designation": "SST (G)" , "level": "High", "cnic": "1620257001706", "contactNo": "0314-9976576"}, 
+{ "teacherName":"Salma Mumtaz", "designation": "SST (G)" , "level": "High", "cnic": "3520258102044", "contactNo": "0335-4217832"}, 
+{ "teacherName":"Shama", "designation": "SST (B/C)" , "level": "High", "cnic": "1620240718108", "contactNo": "0315-9597978"}, 
+{ "teacherName":"Mehreen", "designation": "S Qaria" , "level": "High", "cnic": "4230109404004", "contactNo": "0331-1306056"}, 
+{ "teacherName":"Farkhanda Hayat", "designation": "S PET" , "level": "High", "cnic": "1620265136046", "contactNo": "0314-9417038"}, 
+{ "teacherName":"Maryam Bibi", "designation": "S DM" , "level": "High", "cnic": "1620293611420", "contactNo": "0314-9132816"}, 
+{ "teacherName":"Arifa Naz", "designation": "S CT" , "level": "High", "cnic": "1620205026982", "contactNo": "0320-1920987"}, 
+{ "teacherName":"Nosheen Gul", "designation": "S CT" , "level": "High", "cnic": "1620209159974", "contactNo": "0312-6641411"}, 
+{ "teacherName":"Najma Karim", "designation": "CT" , "level": "High", "cnic": "1620266569764", "contactNo": "0315-9472152"}, 
+{ "teacherName":"Saira Afzal", "designation": "AT" , "level": "High", "cnic": "1620236167902", "contactNo": "0313-5945245"} 
+
+]
+  },
+  {
+    "schoolName": "GGHS HARYAN",
+    "EmisCode": " ",
+    "teachers": [
+      { "teacherName":"Saeeda Begum", "designation": "TT" , "level": "High", "cnic": "1620123427520", "contactNo": "0314-9895851"}, 
+{ "teacherName":"Samreen Khan", "designation": "SST (M/P))" , "level": "High", "cnic": "1620123713324", "contactNo": "0349-5162393"}, 
+{ "teacherName":"Tanveer akhter", "designation": "SST (G)" , "level": "High", "cnic": "1330122198272", "contactNo": "0345-6408344"}, 
+{ "teacherName":"aisha", "designation": "SST (G)" , "level": "High", "cnic": "1620201177182", "contactNo": "0306-0981689"}, 
+{ "teacherName":"Sidra", "designation": "SST (B/C)" , "level": "High", "cnic": "1620122466290", "contactNo": "0333-9438237"}, 
+{ "teacherName":"Nighat Begum", "designation": "Head Master / Mistress" , "level": "High", "cnic": "1620262761122", "contactNo": "0332-1535706"}, 
+{ "teacherName":"lubna qamar", "designation": "CT" , "level": "High", "cnic": "1620115819912", "contactNo": "0334-9354537"}, 
+{ "teacherName":"Asia Begum", "designation": "CT" , "level": "High", "cnic": "1620190091184", "contactNo": "0345-9328877"}, 
+{ "teacherName":"Khawla Batool", "designation": "CT" , "level": "High", "cnic": "1620267731282", "contactNo": "0346-9849133"}, 
+{ "teacherName":"Farzia", "designation": "AT" , "level": "High", "cnic": "1620207223730", "contactNo": "0316-3514667"} 
+
+]
+  },
+  {
+    "schoolName": "GGHS HUND",
+    "EmisCode": " ",
+    "teachers": [
+      { "teacherName":"Nadia Khan", "designation": "TT" , "level": "High", "cnic": "1730196379452", "contactNo": "0334-8444519"}, 
+{ "teacherName":"Shahana", "designation": "SST (M/P))" , "level": "High", "cnic": "1620141115262", "contactNo": "0332-9543182"}, 
+{ "teacherName":"Zahida begum", "designation": "SST (G)" , "level": "High", "cnic": "1620158367988", "contactNo": "0301-5710490"}, 
+{ "teacherName":"Lubna Ali", "designation": "SST (G)" , "level": "High", "cnic": "1620171562920", "contactNo": "0333-9445429"}, 
+{ "teacherName":"Anila Begum", "designation": "SST (B/C)" , "level": "High", "cnic": "1620148113748", "contactNo": "0304-9494702"}, 
+{ "teacherName":"Nagina Begum", "designation": "S CT" , "level": "High", "cnic": "1620106651478", "contactNo": "0310-9875994"}, 
+{ "teacherName":"Qurat Ul Ain", "designation": "Qaria" , "level": "High", "cnic": "1620175304702", "contactNo": "0333-9136257"}, 
+{ "teacherName":"Zahoor Begum", "designation": "Head Master / Mistress" , "level": "High", "cnic": "6110118213118", "contactNo": "0333-5272485"} 
+
+]
+  },
+  {
+    "schoolName": "GGHS ISMAILA",
+    "EmisCode": " ",
+    "teachers": [
+      { "teacherName":"Sumbal Khalid", "designation": "SST (IT)" , "level": "High", "cnic": "1620284628508", "contactNo": "0348-1995553"}, 
+{ "teacherName":"FARKHANDA SAHHEEN", "designation": "SST (G)" , "level": "High", "cnic": "1620209011982", "contactNo": "0342-2398495"}, 
+{ "teacherName":"Rana gul", "designation": "SST (G)" , "level": "High", "cnic": "1620209030482", "contactNo": "0343-8976790"}, 
+{ "teacherName":"ZAINAB AKHTAR", "designation": "SST (G)" , "level": "High", "cnic": "1620223561282", "contactNo": "0343-6472859"}, 
+{ "teacherName":"Gul Rukh", "designation": "SST (B/C)" , "level": "High", "cnic": "1620249594462", "contactNo": "0313-9183946"}, 
+{ "teacherName":"Asia Akhtar", "designation": "S PET" , "level": "High", "cnic": "1620253503368", "contactNo": "0334-9050625"}, 
+{ "teacherName":"mumlikat", "designation": "S CT" , "level": "High", "cnic": "1620106954416", "contactNo": "0340-9540041"}, 
+{ "teacherName":"Nargis begum", "designation": "S CT" , "level": "High", "cnic": "1620209048040", "contactNo": "0340-3800382"}, 
+{ "teacherName":"Waheeda begum", "designation": "S CT" , "level": "High", "cnic": "1620222653584", "contactNo": "0302-5677089"}, 
+{ "teacherName":"RAMIM BIBI", "designation": "S CT" , "level": "High", "cnic": "1620231139818", "contactNo": "0346-9303420"}, 
+{ "teacherName":"syeda shahista naz", "designation": "S CT" , "level": "High", "cnic": "1620246167724", "contactNo": "0300-9082552"}, 
+{ "teacherName":"LAIL UN NIHAR", "designation": "S AT" , "level": "High", "cnic": "1620254685756", "contactNo": "0300-8178229"}, 
+{ "teacherName":"NAVEED ALAM", "designation": "Qaria" , "level": "High", "cnic": "1620208840510", "contactNo": "0302-8182303"}, 
+{ "teacherName":"siyyara begum", "designation": "Principal (B-19)" , "level": "High", "cnic": "1620208950540", "contactNo": "0332-2720489"}, 
+{ "teacherName":"NIGHAT SEEMA", "designation": "DM" , "level": "High", "cnic": "1620243629194", "contactNo": "0331-9385616"}, 
+{ "teacherName":"Syeda Faiza Shah", "designation": "CT" , "level": "High", "cnic": "1620406176710", "contactNo": "0300-5022135"} 
+
+]
+  },
+  {
+    "schoolName": "GGHS JAGANATH",
+    "EmisCode": " ",
+    "teachers": [
+      { "teacherName":"Aasema", "designation": "TT" , "level": "High", "cnic": "1620132346912", "contactNo": "0312-5341518"}, 
+      { "teacherName":"Safia bibi", "designation": "SST (M/P))" , "level": "High", "cnic": "1720109042386", "contactNo": "0333-9157685"}, 
+      { "teacherName":"Syeda Nasiha Seemi", "designation": "SST (G)" , "level": "High", "cnic": "1620215454024", "contactNo": "0332-9403020"}, 
+      { "teacherName":"Labiba hussain", "designation": "SST (G)" , "level": "High", "cnic": "6110115003348", "contactNo": "0336-5621460"}, 
+      { "teacherName":"Sumayya Umair", "designation": "SST (B/C)" , "level": "High", "cnic": "1620233449990", "contactNo": "0340-9038603"}, 
+      { "teacherName":"Neelam Naz", "designation": "CT" , "level": "High", "cnic": "1620208283984", "contactNo": "0344-0507687"}, 
+      { "teacherName":"nighat shaukat", "designation": "CT" , "level": "High", "cnic": "1620229508832", "contactNo": "0346-9138455"}
+]
+  },
+  {
+    "schoolName": "GGHS JALSAI",
+    "EmisCode": " ",
+    "teachers": [
+      { "teacherName":"Irum Naz", "designation": "SST (M/P))" , "level": "High", "cnic": "1620141145154", "contactNo": "0331-9410990"}, 
+      { "teacherName":"Anisa Farzana", "designation": "SST (G)" , "level": "High", "cnic": "1620106960052", "contactNo": "0312-8599982"}, 
+      { "teacherName":"Danish bibi", "designation": "SST (G)" , "level": "High", "cnic": "1620139077958", "contactNo": "0334-8867523"}, 
+      { "teacherName":"Maryam yousaf zai", "designation": "SST (B/C)" , "level": "High", "cnic": "1620260231460", "contactNo": "0341-9803352"}, 
+      { "teacherName":"Nabila Naz", "designation": "SST (B/C)" , "level": "High", "cnic": "6110168009942", "contactNo": "0"}, 
+      { "teacherName":"Zainab Bibi", "designation": "S PET" , "level": "High", "cnic": "1620198766310", "contactNo": "0316-9787386"}, 
+      { "teacherName":"Rabia Bibi", "designation": "S DM" , "level": "High", "cnic": "1620106854750", "contactNo": "0315-9276442"}, 
+      { "teacherName":"Bakht Zari", "designation": "S CT" , "level": "High", "cnic": "1620147779312", "contactNo": "0336-9708514"}, 
+      { "teacherName":"Safia Bibi", "designation": "CT" , "level": "High", "cnic": "1620106663062", "contactNo": "0306-8509844"} 
+      ]
+  },
+  {
+    "schoolName": "GGHS JHANDA",
+    "EmisCode": " ",
+    "teachers": [
+      { "teacherName":"Shabnum", "designation": "SST (M/P))" , "level": "High", "cnic": "1620293458276", "contactNo": "0340-5819769"}, 
+{ "teacherName":"Kalsoom Bibi", "designation": "SST (G)" , "level": "High", "cnic": "1620209416664", "contactNo": "0313-9843141"}, 
+{ "teacherName":"Nazneen", "designation": "SST (G)" , "level": "High", "cnic": "1620296211594", "contactNo": "0314-6610423"}, 
+{ "teacherName":"Nabeela Anjum", "designation": "SST (B/C)" , "level": "High", "cnic": "1620299540848", "contactNo": "0314-6684262"}, 
+{ "teacherName":"Nuzhat zohra", "designation": "S CT" , "level": "High", "cnic": "1620278199976", "contactNo": "0340-9160786"}, 
+{ "teacherName":"Hashmat", "designation": "Qaria" , "level": "High", "cnic": "1620288513562", "contactNo": "0313-9772240"}, 
+{ "teacherName":"Fareeha zaman", "designation": "PET" , "level": "High", "cnic": "1620294554374", "contactNo": "0313-9475464"}, 
+{ "teacherName":"Parizadgai", "designation": "DM" , "level": "High", "cnic": "1610110897940", "contactNo": "0311-9195406"}, 
+{ "teacherName":"Salma", "designation": "CT" , "level": "High", "cnic": "1620246550948", "contactNo": "0342-2120220"}, 
+{ "teacherName":"Naila Hakeem", "designation": "AT" , "level": "High", "cnic": "1620266837702", "contactNo": "0341-1941749"} 
+]
+  },
+  {
+    "schoolName": "GGHS KABGANI",
+    "EmisCode": " ",
+    "teachers": [
+      { "teacherName":"Mehnaz", "designation": "STT" , "level": "High", "cnic": "1620213734840", "contactNo": "0321-9108457"}, 
+{ "teacherName":"Momin Taj", "designation": "SST (G)" , "level": "High", "cnic": "1620206887994", "contactNo": "0"}, 
+{ "teacherName":"Bibi Salima", "designation": "SST (G)" , "level": "High", "cnic": "1620209341086", "contactNo": "0311-8048704"}, 
+{ "teacherName":"sameera anjum", "designation": "SST (B/C)" , "level": "High", "cnic": "1620306099372", "contactNo": "0318-9105515"} 
+]
+  },
+  {
+    "schoolName": "GGHS KALU DHER",
+    "EmisCode": " ",
+    "teachers": [
+      { "teacherName":"Asia rehman", "designation": "TT" , "level": "High", "cnic": "1620233734442", "contactNo": "0336-9664161"}, 
+{ "teacherName":"Anjum Jamal", "designation": "SST (M/P))" , "level": "High", "cnic": "1620245938990", "contactNo": "0333-0977944"}, 
+{ "teacherName":"Hajira Bibi", "designation": "SST (G)" , "level": "High", "cnic": "1620208384718", "contactNo": "0332-9431731"}, 
+{ "teacherName":"Rasheeda naz", "designation": "SST (G)" , "level": "High", "cnic": "1620209078092", "contactNo": "0344-9641210"}, 
+{ "teacherName":"Munazza Dayan", "designation": "S PET" , "level": "High", "cnic": "1620231086960", "contactNo": "0335-9097166"}, 
+{ "teacherName":"Hameeda Anjum", "designation": "S DM" , "level": "High", "cnic": "1620208658260", "contactNo": "0345-0388251"}, 
+{ "teacherName":"Sarikat", "designation": "S CT" , "level": "High", "cnic": "1620208670316", "contactNo": "0332-9404412"}, 
+{ "teacherName":"Huma Gul", "designation": "Qaria" , "level": "High", "cnic": "1620259875110", "contactNo": "0333-0530964"}, 
+{ "teacherName":"Taskeen bibi", "designation": "Head Master / Mistress" , "level": "High", "cnic": "1620208263684", "contactNo": "0306-5733433"} 
+]
+  },
+  {
+    "schoolName": "GGHS KOTHA",
+    "EmisCode": " ",
+    "teachers": [
+      { "teacherName":"Zubaida Khatoon", "designation": "SST (G)" , "level": "High", "cnic": "1620208321596", "contactNo": "0315-9582517"}, 
+{ "teacherName":"Shazia Mubarak Sultana", "designation": "SST (G)" , "level": "High", "cnic": "1620245865338", "contactNo": "0313-9277793"}, 
+{ "teacherName":"Hasina Sultan", "designation": "SST (B/C)" , "level": "High", "cnic": "1620271933898", "contactNo": "0310-9502562"}, 
+{ "teacherName":"Samia bibi", "designation": "PET" , "level": "High", "cnic": "1620286005096", "contactNo": "0308-5305231"}, 
+{ "teacherName":"Sheeba Farooq", "designation": "DM" , "level": "High", "cnic": "1620241244940", "contactNo": "0313-9597314"}, 
+{ "teacherName":"Bibi Maryam", "designation": "CT" , "level": "High", "cnic": "1620208477480", "contactNo": "0"}, 
+{ "teacherName":"Waheeda Gul", "designation": "CT" , "level": "High", "cnic": "1620209250288", "contactNo": "0345-9585425"} 
+]
+  },
+  {
+    "schoolName": "GGHS KSK",
+    "EmisCode": " ",
+    "teachers": [
+      { "teacherName":"Bibi Gul", "designation": "STT" , "level": "High", "cnic": "1510103693310", "contactNo": "0344-0955786"}, 
+{ "teacherName":"Saima Gul", "designation": "SST (M/P))" , "level": "High", "cnic": "1620216098506", "contactNo": "0345-0510593"}, 
+{ "teacherName":"Sehrish Gul", "designation": "SST (M/P))" , "level": "High", "cnic": "1620261448722", "contactNo": "0315-9836005"}, 
+{ "teacherName":"Khushboo Shoukat", "designation": "SST (IT)" , "level": "High", "cnic": "1730171857550", "contactNo": "0347-9252676"}, 
+{ "teacherName":"Shamim Ara", "designation": "SST (G)" , "level": "High", "cnic": "1610188118540", "contactNo": "0300-5754954"}, 
+{ "teacherName":"zubaida begum", "designation": "SST (G)" , "level": "High", "cnic": "1620208262716", "contactNo": "0315-6299633"}, 
+{ "teacherName":"Shaista Bibi", "designation": "SST (G)" , "level": "High", "cnic": "1620208870454", "contactNo": "0313-9449436"}, 
+{ "teacherName":"farida naz", "designation": "SST (G)" , "level": "High", "cnic": "1620208883732", "contactNo": "0333-5228039"}, 
+{ "teacherName":"bushra", "designation": "SST (G)" , "level": "High", "cnic": "1620209045114", "contactNo": "0333-5228039"}, 
+{ "teacherName":"Jannat un Nisa", "designation": "SST (G)" , "level": "High", "cnic": "1620209098398", "contactNo": "0300-5123535"}, 
+{ "teacherName":"Bushra Begum", "designation": "SST (G)" , "level": "High", "cnic": "1620292728396", "contactNo": "0345-9492439"}, 
+{ "teacherName":"Naveed Akhtar", "designation": "SST (B/C)" , "level": "High", "cnic": "1620208855462", "contactNo": "0346-9075759"}, 
+{ "teacherName":"Shah Jehan Begum", "designation": "S CT" , "level": "High", "cnic": "1620208597038", "contactNo": "0301-8911847"}, 
+{ "teacherName":"Salma Shaheen", "designation": "S CT" , "level": "High", "cnic": "1620229633488", "contactNo": "0315-9932409"}, 
+{ "teacherName":"Rani Begum", "designation": "S CT" , "level": "High", "cnic": "1620231437682", "contactNo": "0311-6521164"}, 
+{ "teacherName":"Farzana Bibi", "designation": "S CT" , "level": "High", "cnic": "1620278927096", "contactNo": "0345-2579916"}, 
+{ "teacherName":"Rosina Qamar", "designation": "S CT" , "level": "High", "cnic": "1620288918920", "contactNo": "0313-9856754"}, 
+{ "teacherName":"Sheraz Begum", "designation": "S AT" , "level": "High", "cnic": "1620298604050", "contactNo": "0302-8393954"}, 
+{ "teacherName":"Gul-e-Rana", "designation": "Principal (B-19)" , "level": "High", "cnic": "1220107577432", "contactNo": "0334-1113467"}, 
+{ "teacherName":"Rozina", "designation": "CT" , "level": "High", "cnic": "1620260005188", "contactNo": "0347-4999705"}, 
+{ "teacherName":"Saira", "designation": "CT" , "level": "High", "cnic": "1620262678062", "contactNo": "0301-8010029"} 
+]
+  },
+  {
+    "schoolName": "GGHS LAHOR SHARQI",
+    "EmisCode": " ",
+    "teachers": [
+      { "teacherName":"Anum", "designation": "SST (M/P))" , "level": "High", "cnic": "1620252506618", "contactNo": "0312-9295059"}, 
+      { "teacherName":"Naheed", "designation": "SST (G)" , "level": "High", "cnic": "1620106976854", "contactNo": "0314-9488280"}, 
+      { "teacherName":"Irum Sohrab", "designation": "SST (G)" , "level": "High", "cnic": "1620165410896", "contactNo": "0347-2628417"}, 
+      { "teacherName":"Nabeela", "designation": "SST (B/C)" , "level": "High", "cnic": "1620160483834", "contactNo": "0341-2227379"}, 
+      { "teacherName":"Malika bibi", "designation": "S CT" , "level": "High", "cnic": "1620101940956", "contactNo": "0315-5560777"}, 
+      { "teacherName":"Gul sam", "designation": "S CT" , "level": "High", "cnic": "1620139312900", "contactNo": "0334-9008609"}
+      ]
+  },
+  {
+    "schoolName": "GGHS MALAK ABAD GADOON",
+    "EmisCode": " ",
+    "teachers": [
+      { "teacherName":"zalida mustaan", "designation": "SST (M/P))" , "level": "High", "cnic": "1620250724460", "contactNo": "0346-0911255"}, 
+      { "teacherName":"Hadiqa Rafique", "designation": "SST (G)" , "level": "High", "cnic": "1620264432524", "contactNo": "0343-0334222"}, 
+      { "teacherName":"Farhat Shamim", "designation": "SST (G)" , "level": "High", "cnic": "1620269437628", "contactNo": "0"}, 
+      { "teacherName":"Alia javed", "designation": "SST (B/C)" , "level": "High", "cnic": "1620156423330", "contactNo": "0341-3104820"}, 
+      { "teacherName":"Rubina Begum", "designation": "S CT" , "level": "High", "cnic": "1620256506248", "contactNo": "0313-9400202"}, 
+      { "teacherName":"Samina akhtar", "designation": "CT" , "level": "High", "cnic": "1620278793834", "contactNo": "0349-9521241"}, 
+      { "teacherName":"saima", "designation": "CT" , "level": "High", "cnic": "1730140772160", "contactNo": "0346-9080189"} 
+      ]
+  },
+  {
+    "schoolName": "GGHS MANERI BALA",
+    "EmisCode": " ",
+    "teachers": [
+      { "teacherName":"Samia naz", "designation": "STT" , "level": "High", "cnic": "1620246435624", "contactNo": "0302-5471011"}, 
+      { "teacherName":"Sabeena farid", "designation": "SST (M/P))" , "level": "High", "cnic": "1620222755380", "contactNo": "0315-9098248"}, 
+      { "teacherName":"Neelam Gul", "designation": "SST (M/P))" , "level": "High", "cnic": "3710143467502", "contactNo": "0315-4882246"}, 
+      { "teacherName":"Alia bibi", "designation": "SST (G)" , "level": "High", "cnic": "1620208304202", "contactNo": "0311-1415934"}, 
+      { "teacherName":"shagufta begum", "designation": "SST (G)" , "level": "High", "cnic": "1620208383086", "contactNo": "0312-8347351"}, 
+      { "teacherName":"Nazia", "designation": "SST (G)" , "level": "High", "cnic": "1620208914348", "contactNo": "0333-9335131"}, 
+      { "teacherName":"rozina", "designation": "SST (G)" , "level": "High", "cnic": "1620209105186", "contactNo": "0345-9500177"}, 
+      { "teacherName":"Neelma gul", "designation": "SST (B/C)" , "level": "High", "cnic": "1620245766332", "contactNo": "0314-9997523"}, 
+      { "teacherName":"saeda begum", "designation": "S Qaria" , "level": "High", "cnic": "1620279310346", "contactNo": "0336-9783408"}, 
+      { "teacherName":"Nafeesa", "designation": "S DM" , "level": "High", "cnic": "1620285639238", "contactNo": "0343-9022336"}, 
+      { "teacherName":"Safia Naz", "designation": "S CT" , "level": "High", "cnic": "1620208446486", "contactNo": "0336-9411039"}, 
+      { "teacherName":"Shaista khan", "designation": "S CT" , "level": "High", "cnic": "1620208816436", "contactNo": "0332-9403328"}, 
+      { "teacherName":"Rehana", "designation": "S CT" , "level": "High", "cnic": "1620209033304", "contactNo": "0331-9095150"}, 
+      { "teacherName":"Asma Gul", "designation": "S CT" , "level": "High", "cnic": "1620209033378", "contactNo": "0308-5593741"}, 
+      { "teacherName":"arjumand shaheen", "designation": "S CT" , "level": "High", "cnic": "1620291125108", "contactNo": "0311-9987687"}, 
+      { "teacherName":"Nargis zareen", "designation": "S CT" , "level": "High", "cnic": "1620297991654", "contactNo": "0331-9180100"}, 
+      { "teacherName":"zahida nageen", "designation": "Head Master / Mistress" , "level": "High", "cnic": "1620208201204", "contactNo": "0315-9433066"}, 
+      { "teacherName":"Ruqaya", "designation": "CT" , "level": "High", "cnic": "1620265384954", "contactNo": "0332-9346354"}, 
+      { "teacherName":"Farzana rehman", "designation": "CT" , "level": "High", "cnic": "1620279836312", "contactNo": "0300-5683050"}, 
+      { "teacherName":"Ashtab", "designation": "CT" , "level": "High", "cnic": "1620285528660", "contactNo": "0314-9958826"}
+    ]
+  },
+  {
+    "schoolName": "GGHS MANERI PAYAN",
+    "EmisCode": " ",
+    "teachers": [
+      { "teacherName":"Kalsoom rehana", "designation": "SST (G)" , "level": "High", "cnic": "4220104316922", "contactNo": "0332-9014733"}, 
+{ "teacherName":"saima", "designation": "SST (B/C)" , "level": "High", "cnic": "1620254866856", "contactNo": "0314-9246213"}, 
+{ "teacherName":"Samina farhat", "designation": "CT" , "level": "High", "cnic": "1620209205332", "contactNo": "0342-9217770"}, 
+{ "teacherName":"Rakhshanda", "designation": "CT" , "level": "High", "cnic": "1620211792312", "contactNo": "0"}, 
+{ "teacherName":"Nadia akbar", "designation": "CT" , "level": "High", "cnic": "1620224176036", "contactNo": "0331-9299744"}, 
+{ "teacherName":"Uzma", "designation": "CT" , "level": "High", "cnic": "1620295438056", "contactNo": "0335-9535608"} 
+]
+  },
+  {
+    "schoolName": "GGHS MANGAL CHAI",
+    "EmisCode": " ",
+    "teachers": [
+      { "teacherName":"Laiba Urooj", "designation": "CT" , "level": "High", "cnic": "1620219363506", "contactNo": "1111-1111111"}, 
+      { "teacherName":"Tamseela", "designation": "CT" , "level": "High", "cnic": "1620241777128", "contactNo": "0317-1961765"}, 
+      { "teacherName":"Bibi Haleema", "designation": "CT" , "level": "High", "cnic": "1620270580960", "contactNo": "0323-9936908"}, 
+      { "teacherName":"Yasmin Jadoon", "designation": "CT" , "level": "High", "cnic": "1620297733584", "contactNo": "0345-8856944"}, 
+      { "teacherName":"Kalsoom Begum", "designation": "AT" , "level": "High", "cnic": "1620206547696", "contactNo": "0332-9400577"} 
+      ]
+  },
+  {
+    "schoolName": "GGHS MANKI",
+    "EmisCode": " ",
+    "teachers": [
+      { "teacherName":"zainab sana", "designation": "SST (M/P))" , "level": "High", "cnic": "1620190113308", "contactNo": "0315-5995881"}, 
+{ "teacherName":"Chand Bibi", "designation": "SST (G)" , "level": "High", "cnic": "1610199635122", "contactNo": "0"}, 
+{ "teacherName":"Najma Shaheen", "designation": "SST (G)" , "level": "High", "cnic": "1620209125840", "contactNo": "0317-9668991"}, 
+{ "teacherName":"Azra Shaheen", "designation": "SST (G)" , "level": "High", "cnic": "1620279376550", "contactNo": "0"}, 
+{ "teacherName":"Johar begum", "designation": "SST (G)" , "level": "High", "cnic": "1620209214590", "contactNo": "0345-9493880"}, 
+{ "teacherName":"Rida shah", "designation": "SST (B/C)" , "level": "High", "cnic": "1620159337132", "contactNo": "0307-2237302"}, 
+{ "teacherName":"Shahida", "designation": "S CT" , "level": "High", "cnic": "1620106837886", "contactNo": "0"}, 
+{ "teacherName":"Hazra Begum", "designation": "CT" , "level": "High", "cnic": "1620159035622", "contactNo": "0317-2679350"}, 
+{ "teacherName":"Saima Gul", "designation": "CT" , "level": "High", "cnic": "1620115370192", "contactNo": "0313-9853849"}, 
+{ "teacherName":"BiBi Sofia", "designation": "AT" , "level": "High", "cnic": "1620128030178", "contactNo": "0313-9625242"} 
+]
+  },
+  {
+    "schoolName": "GGHS MANSOOR KHEL ZAIDA",
+    "EmisCode": " ",
+    "teachers": [
+      { "teacherName":"Uzma Shaheen", "designation": "SST (M/P))" , "level": "High", "cnic": "1620274708418", "contactNo": "0341-9845689"}, 
+{ "teacherName":"SHAHISTA NAZ", "designation": "SST (G)" , "level": "High", "cnic": "1620208810666", "contactNo": "0310-5975529"}, 
+{ "teacherName":"Madiha Zeb", "designation": "SST (G)" , "level": "High", "cnic": "1620243415190", "contactNo": "0"}, 
+{ "teacherName":"Khamisa", "designation": "SST (B/C)" , "level": "High", "cnic": "1620208947086", "contactNo": "0347-8468826"}, 
+{ "teacherName":"Nasim Akhtar", "designation": "S PET" , "level": "High", "cnic": "1620208743636", "contactNo": "0314-9995014"}, 
+{ "teacherName":"Nazneen Akhtar", "designation": "S DM" , "level": "High", "cnic": "1620208898110", "contactNo": "0346-9734717"}, 
+{ "teacherName":"Shaheen Begum", "designation": "S CT" , "level": "High", "cnic": "1620208800798", "contactNo": "0344-9010246"}, 
+{ "teacherName":"Nazia Naz", "designation": "CT" , "level": "High", "cnic": "1620202035140", "contactNo": "0332-1902626"} 
+]
+  },
+  {
+    "schoolName": "GGHS MARGHUZ",
+    "EmisCode": " ",
+    "teachers": [
+      { "teacherName":"Sitara Bakhtiar", "designation": "SST (M/P))" , "level": "High", "cnic": "1620270826750", "contactNo": "0316-9769002"}, 
+{ "teacherName":"Hina Khan", "designation": "SST (M/P))" , "level": "High", "cnic": "1620277057712", "contactNo": "0336-9411252"}, 
+{ "teacherName":"Tahira naz", "designation": "SST (G)" , "level": "High", "cnic": "1620208623464", "contactNo": "0313-5713131"}, 
+{ "teacherName":"Rasheeda bibi", "designation": "SST (G)" , "level": "High", "cnic": "1620209196188", "contactNo": "0332-9894870"}, 
+{ "teacherName":"Bibi Umia", "designation": "SST (G)" , "level": "High", "cnic": "1620209295736", "contactNo": "0334-8753075"}, 
+{ "teacherName":"Shahab Kosar", "designation": "SST (G)" , "level": "High", "cnic": "1620272962182", "contactNo": "0341-9445700"}, 
+{ "teacherName":"Maria Sultan", "designation": "SST (G)" , "level": "High", "cnic": "4250178294908", "contactNo": "0320-0502355"}, 
+{ "teacherName":"Salma Saadat", "designation": "SST (B/C)" , "level": "High", "cnic": "1620209173908", "contactNo": "0332-9400679"}, 
+{ "teacherName":"Shazia Syed", "designation": "S PET" , "level": "High", "cnic": "1620208607768", "contactNo": "0314-9862353"}, 
+{ "teacherName":"Noor Jehan", "designation": "S DM" , "level": "High", "cnic": "1620209076996", "contactNo": "0344-4338359"}, 
+{ "teacherName":"Nagina Begum", "designation": "S CT" , "level": "High", "cnic": "1620208407942", "contactNo": "0347-9736559"}, 
+{ "teacherName":"rozina akhtar", "designation": "S CT" , "level": "High", "cnic": "1620208625558", "contactNo": "0314-5554424"}, 
+{ "teacherName":"Shazia Begum", "designation": "S CT" , "level": "High", "cnic": "1620208661568", "contactNo": "0314-5373239"}, 
+{ "teacherName":"Nazia Noreen", "designation": "S CT" , "level": "High", "cnic": "1620208842004", "contactNo": "0345-9689202"}, 
+{ "teacherName":"Basmeena", "designation": "S CT" , "level": "High", "cnic": "1620208852980", "contactNo": "0315-9309693"}, 
+{ "teacherName":"Shazia Saleem", "designation": "S CT" , "level": "High", "cnic": "1620209101018", "contactNo": "0348-3351002"}, 
+{ "teacherName":"Bibi Haleema", "designation": "S CT" , "level": "High", "cnic": "1620209191584", "contactNo": "0313-9016216"}, 
+{ "teacherName":"Sabeeha", "designation": "Principal (B-19)" , "level": "High", "cnic": "1620208716606", "contactNo": "0344-9212315"} 
+]
+  },
+  {
+    "schoolName": "GGHS MATHRA DAGAI",
+    "EmisCode": " ",
+    "teachers": [
+      { "teacherName":"Mehnaz qadir", "designation": "SST (M/P))" , "level": "High", "cnic": "1620208332300", "contactNo": "0336-9123346"}, 
+{ "teacherName":"Lala rukh", "designation": "SST (G)" , "level": "High", "cnic": "1620209386434", "contactNo": "0"}, 
+{ "teacherName":"Nagina Naz", "designation": "SST (G)" , "level": "High", "cnic": "1620229988440", "contactNo": "0342-3473322"}, 
+{ "teacherName":"zainab", "designation": "SST (B/C)" , "level": "High", "cnic": "1620208315348", "contactNo": "0344-4510052"}, 
+{ "teacherName":"Azra khan", "designation": "S CT" , "level": "High", "cnic": "1620208618194", "contactNo": "0345-9445747"}, 
+{ "teacherName":"Noreen Akbar", "designation": "S CT" , "level": "High", "cnic": "1620208945106", "contactNo": "0302-8362699"}, 
+{ "teacherName":"khalida saeed", "designation": "S CT" , "level": "High", "cnic": "1620208974988", "contactNo": "0341-7206770"}, 
+{ "teacherName":"sameena bibi", "designation": "S CT" , "level": "High", "cnic": "1620220841666", "contactNo": "0342-0890825"}, 
+{ "teacherName":"Ruqia begum", "designation": "Qaria" , "level": "High", "cnic": "1620251276704", "contactNo": "0332-0951800"}, 
+{ "teacherName":"Nazish Zeb", "designation": "PET" , "level": "High", "cnic": "1620297021048", "contactNo": "0333-8443023"}, 
+{ "teacherName":"Nighat shaheen", "designation": "Head Master / Mistress" , "level": "High", "cnic": "1620208315300", "contactNo": "0343-9204032"} 
+]
+  },
+  {
+    "schoolName": "GGHS PANJPIR",
+    "EmisCode": " ",
+    "teachers": [
+      { "teacherName":"Ayesha israr", "designation": "SST (M/P))" , "level": "High", "cnic": "1620277559656", "contactNo": "0347-8889453"}, 
+{ "teacherName":"Musarrat Jabeen", "designation": "SST (IT)" , "level": "High", "cnic": "1610192369344", "contactNo": "0333-9436499"}, 
+{ "teacherName":"Hizra Khatoon", "designation": "SST (G)" , "level": "High", "cnic": "1620208840054", "contactNo": "0349-3435243"}, 
+{ "teacherName":"Naheed Begum", "designation": "SST (G)" , "level": "High", "cnic": "1620209341034", "contactNo": "0333-9885522"}, 
+{ "teacherName":"Safia Ahmad", "designation": "SST (G)" , "level": "High", "cnic": "1620226318926", "contactNo": "0311-9104141"}, 
+{ "teacherName":"Seema Andaleeb", "designation": "SST (G)" , "level": "High", "cnic": "1620266424752", "contactNo": "0318-9292181"}, 
+{ "teacherName":"nusrat  begum", "designation": "SST (B/C)" , "level": "High", "cnic": "1620282403374", "contactNo": "0311-6839139"}, 
+{ "teacherName":"Uzma habib", "designation": "S CT" , "level": "High", "cnic": "1620208976120", "contactNo": "0344-9220901"}, 
+{ "teacherName":"khalida", "designation": "S CT" , "level": "High", "cnic": "1620209124486", "contactNo": "0300-9087390"}, 
+{ "teacherName":"Zaib un Nisa", "designation": "S CT" , "level": "High", "cnic": "1620288935774", "contactNo": "0311-8114138"}, 
+{ "teacherName":"Ummia Begum", "designation": "S CT" , "level": "High", "cnic": "6110118384560", "contactNo": "0332-9438825"}, 
+{ "teacherName":"Hamshida Begum", "designation": "S CT" , "level": "High", "cnic": "6110118406428", "contactNo": "0302-5673072"}, 
+{ "teacherName":"gul shan ara", "designation": "S AT" , "level": "High", "cnic": "1620292269356", "contactNo": "0343-9623616"}, 
+{ "teacherName":"Salma Kalsoom", "designation": "Principal (B-19)" , "level": "High", "cnic": "1620208187012", "contactNo": "0333-3756846"}, 
+{ "teacherName":"Lubna Jabeen", "designation": "CT" , "level": "High", "cnic": "1620208692010", "contactNo": "0346-9815838"}, 
+{ "teacherName":"Najia habib", "designation": "CT" , "level": "High", "cnic": "1620277910914", "contactNo": "0344-9226988"}, 
+{ "teacherName":"Sheema dilroz", "designation": "CT" , "level": "High", "cnic": "1620281888392", "contactNo": "0314-4545194"} 
+]
+  },
+  {
+    "schoolName": "GGHS PANJMAN",
+    "EmisCode": " ",
+    "teachers": [
+      { "teacherName":"Khasiat begum", "designation": "SST (G)" , "level": "High", "cnic": "1620209386052", "contactNo": "0"}, 
+      { "teacherName":"Sana Khan", "designation": "SST (G)" , "level": "High", "cnic": "4130809904094", "contactNo": "0336-9548882"}, 
+      { "teacherName":"Muttaqia Waqar", "designation": "SST (B/C)" , "level": "High", "cnic": "1620283063126", "contactNo": "0315-9447905"}, 
+      { "teacherName":"Nida Haider", "designation": "SST (B/C)" , "level": "High", "cnic": "1620284964504", "contactNo": "0347-9405727"}, 
+      { "teacherName":"Ramim Begum", "designation": "CT" , "level": "High", "cnic": "1510150192790", "contactNo": "0342-9748147"}, 
+      { "teacherName":"Mehnaz Begum", "designation": "CT" , "level": "High", "cnic": "1620209075938", "contactNo": "0300-5686758"}, 
+      { "teacherName":"Aqeela Rehman", "designation": "CT" , "level": "High", "cnic": "1620238266192", "contactNo": "0343-9876166"}, 
+      { "teacherName":"Nasreen Begum", "designation": "CT" , "level": "High", "cnic": "1620259822342", "contactNo": "0344-9214322"}
+      ]
+  },
+  {
+    "schoolName": "GGHS PARMOLI",
+    "EmisCode": " ",
+    "teachers": [
+      { "teacherName":"Sabeena Akbar", "designation": "SST (M/P))" , "level": "High", "cnic": "1620405860260", "contactNo": "0311-0945267"}, 
+      { "teacherName":"Nida", "designation": "SST (IT)" , "level": "High", "cnic": "1330282118488", "contactNo": "0348-3336608"}, 
+      { "teacherName":"Nagina Bibi", "designation": "SST (G)" , "level": "High", "cnic": "1620208163054", "contactNo": "0345-7027297"}, 
+      { "teacherName":"Perveen Begum", "designation": "SST (G)" , "level": "High", "cnic": "1620208167488", "contactNo": "0342-0096652"}, 
+      { "teacherName":"Zakia Anjum", "designation": "SST (G)" , "level": "High", "cnic": "1620208350152", "contactNo": "0343-9609681"}, 
+      { "teacherName":"Safina Begum", "designation": "SST (G)" , "level": "High", "cnic": "1620299149392", "contactNo": "0343-8971226"}, 
+      { "teacherName":"Sameena", "designation": "SST (B/C)" , "level": "High", "cnic": "1620405751108", "contactNo": "0349-1152083"}, 
+      { "teacherName":"Shazma", "designation": "CT(IT)" , "level": "High", "cnic": "1620223878686", "contactNo": "0314-5343636"}, 
+      { "teacherName":"Farzana Wasil", "designation": "CT" , "level": "High", "cnic": "1620208701782", "contactNo": "0343-9207441"}, 
+      { "teacherName":"Jalwa Garah", "designation": "CT" , "level": "High", "cnic": "1620249816344", "contactNo": "0346-9808233"}, 
+      { "teacherName":"Asia Begum", "designation": "CT" , "level": "High", "cnic": "1620274819068", "contactNo": "0314-9997388"}, 
+      { "teacherName":"Rubina Shah", "designation": "CT" , "level": "High", "cnic": "1620275216512", "contactNo": "0343-5269051"} 
+      ]
+  },
+  {
+    "schoolName": "GGHS PEHUR HIMLET",
+    "EmisCode": " ",
+    "teachers": [
+      { "teacherName":"Huma Gohar", "designation": "SST (M/P))" , "level": "High", "cnic": "1620253997624", "contactNo": "0314-7784800"}, 
+{ "teacherName":"Fatima Syed", "designation": "SST (G)" , "level": "High", "cnic": "1560109486052", "contactNo": "0"}, 
+{ "teacherName":"Bibi Asia", "designation": "SST (G)" , "level": "High", "cnic": "1620208264810", "contactNo": "0315-6725567"}, 
+{ "teacherName":"Fatema", "designation": "SST (B/C)" , "level": "High", "cnic": "1330165571144", "contactNo": "0314-9060067"}, 
+{ "teacherName":"Mussarrat Jabeen", "designation": "S CT" , "level": "High", "cnic": "1610152793082", "contactNo": "0336-3265782"}, 
+{ "teacherName":"Wakila Naz", "designation": "S CT" , "level": "High", "cnic": "1620252793082", "contactNo": "0"}, 
+{ "teacherName":"JAMILA RAHMAN", "designation": "CT" , "level": "High", "cnic": "1620218368192", "contactNo": "0321-9860606"}, 
+{ "teacherName":"Saira Naz", "designation": "CT" , "level": "High", "cnic": "1620227116964", "contactNo": "0343-8134495"} 
+    ]
+  },
+  {
+    "schoolName": "GGHS RAFIQ ABAD",
+    "EmisCode": " ",
+    "teachers": [
+      { "teacherName":"Fozia munawar", "designation": "SST (M/P))" , "level": "High", "cnic": "1620132742342", "contactNo": "0315-9101968"}, 
+      { "teacherName":"Mozaina", "designation": "SST (G)" , "level": "High", "cnic": "1620209205040", "contactNo": "0333-9425798"}, 
+      { "teacherName":"Suneela", "designation": "SST (G)" , "level": "High", "cnic": "1620269457646", "contactNo": "0344-9016798"}, 
+      { "teacherName":"alia bibi", "designation": "SST (B/C)" , "level": "High", "cnic": "1620261362758", "contactNo": "0314-4260444"}, 
+      { "teacherName":"husan ara", "designation": "Head Master / Mistress" , "level": "High", "cnic": "1620209259750", "contactNo": "0340-9564452"}, 
+      { "teacherName":"Samreen", "designation": "CT" , "level": "High", "cnic": "1610165616382", "contactNo": "0345-0736798"}, 
+      { "teacherName":"Bushra", "designation": "CT" , "level": "High", "cnic": "1620210290288", "contactNo": "0312-9146536"} 
+      ]
+  },
+  {
+    "schoolName": "GGHS SALIM KHAN",
+    "EmisCode": " ",
+    "teachers": [
+      { "teacherName":"Syyeda Abida Bukhari", "designation": "STT" , "level": "High", "cnic": "1620209068994", "contactNo": "0314-9879940"}, 
+{ "teacherName":"Syeda Kalsoom Bibi", "designation": "SST (M/P))" , "level": "High", "cnic": "1620116554710", "contactNo": "0316-1912577"}, 
+{ "teacherName":"Kalsoom", "designation": "SST (G)" , "level": "High", "cnic": "1620220230234", "contactNo": "0314-9990059"}, 
+{ "teacherName":"shehnaz begum", "designation": "SST (G)" , "level": "High", "cnic": "1620278617004", "contactNo": "0346-9734653"}, 
+{ "teacherName":"Huma gul", "designation": "SST (G)" , "level": "High", "cnic": "1620292081696", "contactNo": "0342-9746080"}, 
+{ "teacherName":"Shagufta Naz", "designation": "SST (B/C)" , "level": "High", "cnic": "1620274927508", "contactNo": "0334-8984399"}, 
+{ "teacherName":"Umaira Naz", "designation": "CT" , "level": "High", "cnic": "1620219958702", "contactNo": "0313-5350470"}, 
+{ "teacherName":"Ambareen", "designation": "CT" , "level": "High", "cnic": "1620241549318", "contactNo": "0314-9959557"}, 
+{ "teacherName":"Nighat Ishfaq", "designation": "CT" , "level": "High", "cnic": "1620248871318", "contactNo": "0312-6262656"}, 
+{ "teacherName":"Sana Gul", "designation": "CT" , "level": "High", "cnic": "1620285798576", "contactNo": "0332-9926547"} 
+    ]
+  },
+  {
+    "schoolName": "GGHS SARD CHINA",
+    "EmisCode": " ",
+    "teachers": [
+      { "teacherName":"Shamim Bano", "designation": "STT" , "level": "High", "cnic": "1330182189544", "contactNo": "0312-9849622"}, 
+      { "teacherName":"Mufazia akhtar", "designation": "SST (M/P))" , "level": "High", "cnic": "1620405775816", "contactNo": "0345-9897979"}, 
+      { "teacherName":"shagufta nargas", "designation": "SST (G)" , "level": "High", "cnic": "1620106871632", "contactNo": "0340-9797237"}, 
+      { "teacherName":"sabeela mujahid", "designation": "SST (G)" , "level": "High", "cnic": "1620119040952", "contactNo": "0344-4726979"}, 
+      { "teacherName":"Aneela Murad", "designation": "SST (B/C)" , "level": "High", "cnic": "1310136211156", "contactNo": "0"}, 
+      { "teacherName":"Nusrat Begum", "designation": "CT" , "level": "High", "cnic": "1620106871606", "contactNo": "0348-1919833"}, 
+      { "teacherName":"Khair Un Nissa", "designation": "CT" , "level": "High", "cnic": "1620106909372", "contactNo": "0345-9495366"}, 
+      { "teacherName":"Gul Naz Begum", "designation": "CT" , "level": "High", "cnic": "1620155400942", "contactNo": "0342-4676062"}, 
+      { "teacherName":"Nighat Begum", "designation": "CT" , "level": "High", "cnic": "1620168702966", "contactNo": "0340-9829566"} 
+      ]
+  },
+  {
+    "schoolName": "GGHS SARWAR SHAH KOTHI",
+    "EmisCode": " ",
+    "teachers": [
+      { "teacherName":"Tasleem Khan", "designation": "STT" , "level": "High", "cnic": "1620208720318", "contactNo": "0341-5279976"}, 
+      { "teacherName":"Iram akbar", "designation": "SST (M/P))" , "level": "High", "cnic": "1620265420458", "contactNo": "0343-6450597"}, 
+      { "teacherName":"Uzma", "designation": "SST (IT)" , "level": "High", "cnic": "1620208566238", "contactNo": "0334-1050003"}, 
+      { "teacherName":"Afnan", "designation": "SST (G)" , "level": "High", "cnic": "1620204800146", "contactNo": "0314-9378745"}, 
+      { "teacherName":"Razia Shaheen", "designation": "SST (G)" , "level": "High", "cnic": "1620208589160", "contactNo": "0340-5058493"}, 
+      { "teacherName":"Robina qureshi", "designation": "SST (G)" , "level": "High", "cnic": "1620209129782", "contactNo": "0346-8499390"}, 
+      { "teacherName":"saima", "designation": "SST (G)" , "level": "High", "cnic": "1620273313574", "contactNo": "0345-9067358"}, 
+      { "teacherName":"Hashmat", "designation": "SST (B/C)" , "level": "High", "cnic": "1620283103144", "contactNo": "0335-9590722"}, 
+      { "teacherName":"Shazia Begum", "designation": "S CT" , "level": "High", "cnic": "1620216013548", "contactNo": "0343-9836624"}, 
+      { "teacherName":"Israj Begum", "designation": "S CT" , "level": "High", "cnic": "1620226895392", "contactNo": "0333-9429099"}, 
+      { "teacherName":"Aisha gul", "designation": "CT" , "level": "High", "cnic": "1620207512594", "contactNo": "0300-5681851"}, 
+      { "teacherName":"Shaista", "designation": "CT" , "level": "High", "cnic": "1620224438580", "contactNo": "0345-1918995"}, 
+      { "teacherName":"Laila shahab", "designation": "CT" , "level": "High", "cnic": "1620273424880", "contactNo": "0311-8544733"}, 
+      { "teacherName":"Sitara saba", "designation": "CT" , "level": "High", "cnic": "1620282988822", "contactNo": "0333-9420702"} 
+       ]
+  },
+  {
+    "schoolName": "GGHS SHEIKH DHERI",
+    "EmisCode": " ",
+    "teachers": [
+      { "teacherName":"Zahira Begum", "designation": "STT" , "level": "High", "cnic": "1620106784592", "contactNo": "0316-9964126"}, 
+{ "teacherName":"Saira Ahmad", "designation": "SST (M/P))" , "level": "High", "cnic": "1730182831694", "contactNo": "0340-1535969"}, 
+{ "teacherName":"Robina Chand", "designation": "SST (G)" , "level": "High", "cnic": "1620106941612", "contactNo": "0314-9507920"}, 
+{ "teacherName":"Syeda Fatima Bukhari", "designation": "SST (G)" , "level": "High", "cnic": "1620108470896", "contactNo": "0343-9200165"}, 
+{ "teacherName":"Azra Bibi", "designation": "SST (B/C)" , "level": "High", "cnic": "1620175809288", "contactNo": "0343-8980040"}, 
+{ "teacherName":"Robi Tabassum", "designation": "S CT" , "level": "High", "cnic": "1620116626546", "contactNo": "0332-8103226"}, 
+{ "teacherName":"Farzana Firdos", "designation": "S CT" , "level": "High", "cnic": "3740516875886", "contactNo": "0333-1596707"}
+  ]
+  },
+  {
+    "schoolName": "GGHS SUDHER",
+    "EmisCode": " ",
+    "teachers": [
+      { "teacherName":"Alia", "designation": "SST (M/P))" , "level": "High", "cnic": "1620144363404", "contactNo": "0321-9322183"}, 
+      { "teacherName":"Sadia Afaq", "designation": "SST (IT)" , "level": "High", "cnic": "1730112965830", "contactNo": "0331-5387997"}, 
+      { "teacherName":"Asia", "designation": "SST (G)" , "level": "High", "cnic": "1620106680122", "contactNo": "0345-9694630"}, 
+      { "teacherName":"Saeeda Jehan", "designation": "SST (G)" , "level": "High", "cnic": "1620108344546", "contactNo": "0310-3285499"}, 
+      { "teacherName":"Salma Zeb", "designation": "SST (B/C)" , "level": "High", "cnic": "1620286465236", "contactNo": "0333-9394669"}, 
+      { "teacherName":"saleem akhtar", "designation": "S CT" , "level": "High", "cnic": "1620208601352", "contactNo": "0314-9772677"}, 
+      { "teacherName":"Nayab", "designation": "S CT" , "level": "High", "cnic": "1620258213344", "contactNo": "0336-4704636"}, 
+      { "teacherName":"Khalida Jamal", "designation": "S AT" , "level": "High", "cnic": "1620208135252", "contactNo": "0324-9377640"}, 
+      { "teacherName":"Noor Jehan", "designation": "Head Master / Mistress" , "level": "High", "cnic": "6110108258856", "contactNo": "0334-0920849"}, 
+      { "teacherName":"Faiqa Adnan", "designation": "CT" , "level": "High", "cnic": "1610119711514", "contactNo": "0300-9309386"}, 
+      { "teacherName":"Shagufta Naz", "designation": "CT" , "level": "High", "cnic": "1620144449566", "contactNo": "0314-9891143"} 
+          ]
+  },
+  {
+    "schoolName": "GGHS TANO",
+    "EmisCode": " ",
+    "teachers": [
+      { "teacherName":"Saba Gul", "designation": "SST (M/P))" , "level": "High", "cnic": "1620212698330", "contactNo": "0315-4497798"}, 
+{ "teacherName":"Saba Gul", "designation": "SST (IT)" , "level": "High", "cnic": "1720176487984", "contactNo": "0335-5663804"}, 
+{ "teacherName":"Sumaira", "designation": "SST (G)" , "level": "High", "cnic": "1720120710792", "contactNo": "0311-9210834"}, 
+{ "teacherName":"Majida Gul", "designation": "SST (G)" , "level": "High", "cnic": "1720166453016", "contactNo": "0313-9767627"}, 
+{ "teacherName":"Nagina", "designation": "S PET" , "level": "High", "cnic": "1620106637602", "contactNo": "0311-9250174"}, 
+{ "teacherName":"Sadia Kausar", "designation": "S CT" , "level": "High", "cnic": "1620106708104", "contactNo": "0316-7465153"}, 
+{ "teacherName":"Maryam Shazia", "designation": "S CT" , "level": "High", "cnic": "1620106708116", "contactNo": "0334-9282023"}, 
+{ "teacherName":"Shazia", "designation": "CT" , "level": "High", "cnic": "1620109486708", "contactNo": "0315-0955915"}, 
+{ "teacherName":"Bushra Ihsan", "designation": "CT" , "level": "High", "cnic": "1620165830096", "contactNo": "0314-3112186"}, 
+{ "teacherName":"Naila Karim", "designation": "AT" , "level": "High", "cnic": "1620208140546", "contactNo": "0309-8917115"} 
+  ]
+  },
+  {
+    "schoolName": "GGHS TARAKAI",
+    "EmisCode": " ",
+    "teachers": [
+      { "teacherName":"Miraj Begum", "designation": "STT" , "level": "High", "cnic": "1620293921504", "contactNo": "0344-925253"}, 
+{ "teacherName":"Salma", "designation": "SST (M/P))" , "level": "High", "cnic": "1620265822584", "contactNo": "0310-1990007"}, 
+{ "teacherName":"Robina begum", "designation": "SST (G)" , "level": "High", "cnic": "1620208611986", "contactNo": "0313-5200397"}, 
+{ "teacherName":"Minhas", "designation": "SST (G)" , "level": "High", "cnic": "1620209051592", "contactNo": "0331-9036038"}, 
+{ "teacherName":"Aleena Tariq", "designation": "SST (B/C)" , "level": "High", "cnic": "1620268258796", "contactNo": "0348-4584801"}, 
+{ "teacherName":"Samina naz", "designation": "S PET" , "level": "High", "cnic": "1620265410420", "contactNo": "0345-0388214"}, 
+{ "teacherName":"Bushra", "designation": "S DM" , "level": "High", "cnic": "1620229213264", "contactNo": "0312-9549345"}, 
+{ "teacherName":"Abida Begum", "designation": "S CT" , "level": "High", "cnic": "1620208331986", "contactNo": "0343-9637432"}, 
+{ "teacherName":"Zaitoon nisa", "designation": "S CT" , "level": "High", "cnic": "1620208332192", "contactNo": "0342-0732349"}, 
+{ "teacherName":"Nazia khanum", "designation": "S AT" , "level": "High", "cnic": "1620208565396", "contactNo": "0"}, 
+{ "teacherName":"Neelam Zaman", "designation": "Qaria" , "level": "High", "cnic": "1620274777878", "contactNo": "0342-9551877"}, 
+{ "teacherName":"Shakeela naz", "designation": "Principal (B-18)" , "level": "High", "cnic": "1620208407112", "contactNo": "0301-8340877"}, 
+{ "teacherName":"Nasreen inyat", "designation": "CT" , "level": "High", "cnic": "1620208880062", "contactNo": "0347-9298173"}, 
+{ "teacherName":"Zaiba", "designation": "CT" , "level": "High", "cnic": "1620297651220", "contactNo": "0335-9353038"} 
+  ]
+  },
+  {
+    "schoolName": "GGHS THAND KOI",
+    "EmisCode": " ",
+    "teachers": [
+      { "teacherName":"Raheela Begum", "designation": "TT" , "level": "High", "cnic": "1620257706024", "contactNo": "0336-9788065"}, 
+      { "teacherName":"Sumaira Naz", "designation": "SST (M/P))" , "level": "High", "cnic": "1620228413088", "contactNo": "0313-9617949"}, 
+      { "teacherName":"Shehla Zeb", "designation": "SST (IT)" , "level": "High", "cnic": "1620295503392", "contactNo": "0316-5134995"}, 
+      { "teacherName":"Shehnaz Begum", "designation": "SST (G)" , "level": "High", "cnic": "1620208697422", "contactNo": "0349-1453842"}, 
+      { "teacherName":"Saima Bibi", "designation": "SST (G)" , "level": "High", "cnic": "1620208946578", "contactNo": "0347-9736560"}, 
+      { "teacherName":"Haleema Bibi", "designation": "SST (G)" , "level": "High", "cnic": "1620223164572", "contactNo": "0340-9798898"}, 
+      { "teacherName":"Nadia Gul", "designation": "SST (B/C)" , "level": "High", "cnic": "1620212641162", "contactNo": "0347-5551519"}, 
+      { "teacherName":"Nabila", "designation": "CT" , "level": "High", "cnic": "1610248817994", "contactNo": "0304-9414343"}, 
+      { "teacherName":"Maida Naz", "designation": "CT" , "level": "High", "cnic": "1620208681574", "contactNo": "0336-9540969"}, 
+      { "teacherName":"Faida Naz", "designation": "CT" , "level": "High", "cnic": "1620220244706", "contactNo": "0300-9797573"}, 
+      { "teacherName":"Bushra Begum", "designation": "CT" , "level": "High", "cnic": "1620277361616", "contactNo": "0343-5532221"}, 
+      { "teacherName":"Ruba Zahir", "designation": "CT" , "level": "High", "cnic": "1620289745720", "contactNo": "0313-9995356"} 
+       ]
+  },
+  {
+    "schoolName": "GGHS TOR DHER",
+    "EmisCode": " ",
+    "teachers": [
+      { "teacherName":"Raheen Akhter", "designation": "SST (G)" , "level": "High", "cnic": "1620106721102", "contactNo": "0302-3617090"}, 
+{ "teacherName":"Parveen Akhtar", "designation": "SST (G)" , "level": "High", "cnic": "1620106797180", "contactNo": "0322-9016865"}, 
+{ "teacherName":"Farah Naz", "designation": "SST (G)" , "level": "High", "cnic": "1620106811584", "contactNo": "0313-9995437"}, 
+{ "teacherName":"Khalida Begum", "designation": "SST (G)" , "level": "High", "cnic": "1620108643614", "contactNo": "0334-9420422"}, 
+{ "teacherName":"Lal Pari", "designation": "SST (G)" , "level": "High", "cnic": "1620123043080", "contactNo": "0311-9998201"}, 
+{ "teacherName":"Nida Shams", "designation": "SST (G)" , "level": "High", "cnic": "1620268009462", "contactNo": "0343-9217177"}, 
+{ "teacherName":"Faryal Anbreen", "designation": "SST (B/C)" , "level": "High", "cnic": "1620106616338", "contactNo": "0313-9814295"}, 
+{ "teacherName":"Ujala Salma", "designation": "SST (B/C)" , "level": "High", "cnic": "1620227547540", "contactNo": "0333-9005670"}, 
+{ "teacherName":"Saira Afsar", "designation": "SST (B/C)" , "level": "High", "cnic": "1620296832016", "contactNo": "0313-7229595"}, 
+{ "teacherName":"Nasira Begum", "designation": "S CT" , "level": "High", "cnic": "1620106708106", "contactNo": "0336-6576008"}, 
+{ "teacherName":"Tasreen", "designation": "S CT" , "level": "High", "cnic": "1620106790008", "contactNo": "0314-9487559"}, 
+{ "teacherName":"Bibi Aliya", "designation": "S CT" , "level": "High", "cnic": "1620106941306", "contactNo": "0313-9697515"}, 
+{ "teacherName":"Shahnaz Gul", "designation": "S CT" , "level": "High", "cnic": "1620106958240", "contactNo": "0301-3013299"}, 
+{ "teacherName":"Rakia Bibi", "designation": "S CT" , "level": "High", "cnic": "1620141083982", "contactNo": "0314-9960823"}, 
+{ "teacherName":"Saeeda Begum", "designation": "Principal (B-19)" , "level": "High", "cnic": "1220176169698", "contactNo": "0348-5903770"}, 
+{ "teacherName":"Farakh Deeba", "designation": "CT(IT)" , "level": "High", "cnic": "1620199223176", "contactNo": "0313-9507066"}, 
+{ "teacherName":"Sabiha Anjum", "designation": "CT" , "level": "High", "cnic": "1620106713186", "contactNo": "0313-9680600"}, 
+{ "teacherName":"Mehnaz", "designation": "CT" , "level": "High", "cnic": "1620106727666", "contactNo": "0314-9287120"}, 
+{ "teacherName":"Zainab  Gul", "designation": "CT" , "level": "High", "cnic": "1620130026302", "contactNo": "0313-9872688"}, 
+{ "teacherName":"Gul Raj Bibi", "designation": "CT" , "level": "High", "cnic": "1620137821994", "contactNo": "0313-3693935"}, 
+{ "teacherName":"Safia Bibi", "designation": "CT" , "level": "High", "cnic": "1620169475256", "contactNo": "0315-9665747"}, 
+{ "teacherName":"Rabia Begum", "designation": "CT" , "level": "High", "cnic": "1620170167604", "contactNo": "0312-0920640"}, 
+{ "teacherName":"Sayyara Begum", "designation": "CT" , "level": "High", "cnic": "1620173876988", "contactNo": "0335-0905314"} 
+ ]
+  },
+  {
+    "schoolName": "GGHS UTLA",
+    "EmisCode": " ",
+    "teachers": [
+      { "teacherName":"Aqsa", "designation": "SST (M/P))" , "level": "High", "cnic": "1620236750318", "contactNo": "0317-1949224"}, 
+{ "teacherName":"Bibi maryam", "designation": "SST (G)" , "level": "High", "cnic": "1620261541112", "contactNo": "0322-9963779"}, 
+{ "teacherName":"Naseem akhtar", "designation": "SST (G)" , "level": "High", "cnic": "1620292396366", "contactNo": "0346-9446560"}, 
+{ "teacherName":"RUBINA MUMTAZ", "designation": "Qaria" , "level": "High", "cnic": "1620305645050", "contactNo": "0300-5681693"}, 
+{ "teacherName":"RAZNAN BIBI", "designation": "DM" , "level": "High", "cnic": "1620235583144", "contactNo": "0310-9977088"}, 
+{ "teacherName":"NAILAM BEGUM", "designation": "CT" , "level": "High", "cnic": "1620205932050", "contactNo": "0312-929093"}, 
+{ "teacherName":"shehnaz begum", "designation": "CT" , "level": "High", "cnic": "1620208642380", "contactNo": "0314-9177913"}, 
+{ "teacherName":"NOOR JEHAN", "designation": "CT" , "level": "High", "cnic": "1620213665666", "contactNo": "0322-9038493"}, 
+{ "teacherName":"Bibi Hafiza", "designation": "CT" , "level": "High", "cnic": "1620213666616", "contactNo": "0317-9603309"}, 
+{ "teacherName":"SHAFEENA NAZ", "designation": "CT" , "level": "High", "cnic": "1620256089040", "contactNo": "0314-9177913"} 
+ ]
+  },
+  {
+    "schoolName": "GGHS YAQOOBI",
+    "EmisCode": " ",
+    "teachers": [
+      { "teacherName":"Zakia Begum", "designation": "STT" , "level": "High", "cnic": "1620182450180", "contactNo": "0302-5717847"}, 
+      { "teacherName":"Zalida", "designation": "SST (M/P))" , "level": "High", "cnic": "1620118699740", "contactNo": "0347-1975248"}, 
+      { "teacherName":"Faiza Adnan", "designation": "SST (G)" , "level": "High", "cnic": "1610199528498", "contactNo": "0305-1699630"}, 
+      { "teacherName":"nousheen bibi", "designation": "SST (G)" , "level": "High", "cnic": "1620120481370", "contactNo": "0349-9343408"}, 
+      { "teacherName":"kausar tehseen", "designation": "SST (G)" , "level": "High", "cnic": "1620176088680", "contactNo": "0344-2501770"}, 
+      { "teacherName":"Ayesha bibi", "designation": "SST (B/C)" , "level": "High", "cnic": "1620405889842", "contactNo": "0345-3565599"}, 
+      { "teacherName":"Razayat", "designation": "CT" , "level": "High", "cnic": "1620106618074", "contactNo": "0344-9506979"}, 
+      { "teacherName":"Shaista Safdar", "designation": "CT" , "level": "High", "cnic": "1620106735748", "contactNo": "0341-9496646"}, 
+      { "teacherName":"Farhat Rehman", "designation": "CT" , "level": "High", "cnic": "1620168428486", "contactNo": "0345-8856149"}, 
+      { "teacherName":"Quratul Ain", "designation": "AT" , "level": "High", "cnic": "1620115005148", "contactNo": "0341-5564359"}
+      ]
+  },
+  {
+    "schoolName": "GGHS YAR HUSSAIN",
+    "EmisCode": " ",
+    "teachers": [
+      { "teacherName":"Nabeela", "designation": "TT" , "level": "High", "cnic": "1620161374896", "contactNo": "0316-9479057"}, 
+      { "teacherName":"zainab khatoon", "designation": "TT" , "level": "High", "cnic": "1620266773340", "contactNo": "0304-5130681"}, 
+      { "teacherName":"sana shah", "designation": "SST (M/P))" , "level": "High", "cnic": "1620102556296", "contactNo": "0341-2951362"}, 
+      { "teacherName":"Atiya Asad", "designation": "SST (G)" , "level": "High", "cnic": "1610105939668", "contactNo": "0345-9360307"}, 
+      { "teacherName":"bushra gul", "designation": "SST (G)" , "level": "High", "cnic": "1610151713174", "contactNo": "0345-6663456"}, 
+      { "teacherName":"jasmeen bibi", "designation": "SST (G)" , "level": "High", "cnic": "1620136246920", "contactNo": "0343-9302769"}, 
+      { "teacherName":"Rafaqat", "designation": "SST (G)" , "level": "High", "cnic": "1620208273038", "contactNo": "0342-9218224"}, 
+      { "teacherName":"Rabihat jamal", "designation": "SST (G)" , "level": "High", "cnic": "1620208638116", "contactNo": "0342-3866532"}, 
+      { "teacherName":"Farah Naz", "designation": "SST (G)" , "level": "High", "cnic": "1620209026118", "contactNo": "0311-2345470"}, 
+      { "teacherName":"Imtiaz begum", "designation": "SST (G)" , "level": "High", "cnic": "1620275657538", "contactNo": "0"}, 
+      { "teacherName":"Nargis", "designation": "SST (G)" , "level": "High", "cnic": "1620302205294", "contactNo": "0"}, 
+      { "teacherName":"Nargis", "designation": "SST (G)" , "level": "High", "cnic": "1620202205294", "contactNo": "0310-9486264"}, 
+      { "teacherName":"Imtiaz begum", "designation": "SST (G)" , "level": "High", "cnic": "1620275857538", "contactNo": "0341-8017730"}, 
+      { "teacherName":"Salma Khan", "designation": "SST (B/C)" , "level": "High", "cnic": "1620280419078", "contactNo": "0310-9828605"}, 
+      { "teacherName":"safia naz", "designation": "S Qaria" , "level": "High", "cnic": "1620180274312", "contactNo": "0343-8227181"}, 
+      { "teacherName":"Saddiqa begum", "designation": "S CT" , "level": "High", "cnic": "1620106833124", "contactNo": "0313-5181163"}, 
+      { "teacherName":"Fozia yousaf", "designation": "S CT" , "level": "High", "cnic": "1620122246884", "contactNo": "0315-9938444"}, 
+      { "teacherName":"Hasiba shahwar", "designation": "S CT" , "level": "High", "cnic": "1620131026784", "contactNo": "0313-9461482"}, 
+      { "teacherName":"Neelum naz", "designation": "S CT" , "level": "High", "cnic": "1620141036430", "contactNo": "0345-4745653"}, 
+      { "teacherName":"Nusrat hayat", "designation": "S AT" , "level": "High", "cnic": "1620218606734", "contactNo": "03348476696"}, 
+      { "teacherName":"ishrat ali", "designation": "Principal (B-18)" , "level": "High", "cnic": "1620209418224", "contactNo": "0341-6013503"}, 
+      { "teacherName":"Bushra", "designation": "CT" , "level": "High", "cnic": "1620208434914", "contactNo": "0344-9664936"}, 
+      { "teacherName":"yasrab", "designation": "CT" , "level": "High", "cnic": "1620211261378", "contactNo": "0307-5944885"}, 
+      { "teacherName":"sara misal", "designation": "CT" , "level": "High", "cnic": "1620219011226", "contactNo": "0346-9833281"}, 
+      { "teacherName":"Saba gul", "designation": "CT" , "level": "High", "cnic": "1720164273742", "contactNo": "0310-9753004"}
+        ]
+  },
+  {
+    "schoolName": "GGHS YAR HUSSAIN ZIAM" ,
+    "EmisCode": " ",
+    "teachers": [
+      { "teacherName":"Samina", "designation": "TT" , "level": "High", "cnic": "1620405855708", "contactNo": "0314-9027142"}, 
+{ "teacherName":"Muneeba gul", "designation": "SST (M/P))" , "level": "High", "cnic": "1620144075362", "contactNo": "0346-9828765"}, 
+{ "teacherName":"sadaf naz", "designation": "SST (IT)" , "level": "High", "cnic": "1620148087316", "contactNo": "0341-9119320"}, 
+{ "teacherName":"Nageena", "designation": "SST (G)" , "level": "High", "cnic": "1620106871636", "contactNo": "0314-9991092"}, 
+{ "teacherName":"Robina Begum", "designation": "SST (G)" , "level": "High", "cnic": "1620258387596", "contactNo": "0345-9689471"}, 
+{ "teacherName":"saima gul", "designation": "SST (B/C)" , "level": "High", "cnic": "1620298558234", "contactNo": "0313-9781461"}, 
+{ "teacherName":"seema", "designation": "S CT" , "level": "High", "cnic": "1620208788410", "contactNo": "0333-1545341"}, 
+{ "teacherName":"rukhsana", "designation": "S AT" , "level": "High", "cnic": "1620106983162", "contactNo": "0340-9330533"}, 
+{ "teacherName":"Ruqia Habib", "designation": "Qaria" , "level": "High", "cnic": "1620185345030", "contactNo": "0317-1962712"}, 
+{ "teacherName":"zeenat khatoon", "designation": "Head Master / Mistress" , "level": "High", "cnic": "1620208840516", "contactNo": "0342-1904702"}, 
+{ "teacherName":"Basmeena", "designation": "DM" , "level": "High", "cnic": "1620106945682", "contactNo": "0314-9897922"}, 
+{ "teacherName":"Mehreen khan", "designation": "CT(IT)" , "level": "High", "cnic": "1620258295328", "contactNo": "0336-9438032"}, 
+{ "teacherName":"Nazish Begum", "designation": "CT" , "level": "High", "cnic": "1610275566326", "contactNo": "0"}, 
+{ "teacherName":"Kiran Niaz", "designation": "CT" , "level": "High", "cnic": "1620143476516", "contactNo": "0342-5708456"}, 
+{ "teacherName":"Saba gul", "designation": "CT" , "level": "High", "cnic": "1620169399926", "contactNo": "0314-9244121"}
+ ]
+  },
+  {
+    "schoolName": "GGHS YOUSAFI",
+    "EmisCode": " ",
+    "teachers": [
+      { "teacherName":"Wajeeha Dost", "designation": "TT" , "level": "High", "cnic": "1620305706420", "contactNo": "0347-1759548"}, 
+      { "teacherName":"Bibi Asma", "designation": "SST (M/P))" , "level": "High", "cnic": "1620305706428", "contactNo": "0312-0933226"}, 
+      { "teacherName":"Farzana Begum", "designation": "SST (G)" , "level": "High", "cnic": "1620201937086", "contactNo": "0345-9194606"}, 
+      { "teacherName":"Rehana kausar", "designation": "SST (G)" , "level": "High", "cnic": "1620233104342", "contactNo": "0342-9217455"}, 
+      { "teacherName":"Nadia Shoukat", "designation": "SST (B/C)" , "level": "High", "cnic": "1620267033270", "contactNo": "0346-8954400"}, 
+      { "teacherName":"Saddiqa Begum", "designation": "S CT" , "level": "High", "cnic": "1620208235580", "contactNo": "0310-9837472"}, 
+      { "teacherName":"Najma Bibi", "designation": "Qaria" , "level": "High", "cnic": "1620295754328", "contactNo": "0314-7703031"}, 
+      { "teacherName":"Beenish Nawaz", "designation": "PET" , "level": "High", "cnic": "1620276477072", "contactNo": "0314-9990327"}, 
+      { "teacherName":"Waheeda Shafi", "designation": "Head Master / Mistress" , "level": "High", "cnic": "1620207234090", "contactNo": "0336-0906326"} 
+      ]
+  },
+  {
+    "schoolName": "GGHS ZAIDA",
+    "EmisCode": " ",
+    "teachers": [
+      { "teacherName":"Tahira Naz", "designation": "SST (M/P))" , "level": "High", "cnic": "1620236481758", "contactNo": "0315-9691711"}, 
+{ "teacherName":"Nimra Alam", "designation": "SST (IT)" , "level": "High", "cnic": "1620262992796", "contactNo": "0344-8945908"}, 
+{ "teacherName":"Shahana Naz", "designation": "SST (G)" , "level": "High", "cnic": "1620203398768", "contactNo": "0314-9989008"}, 
+{ "teacherName":"Khalida Begum", "designation": "SST (G)" , "level": "High", "cnic": "1620209201898", "contactNo": "0306-8541966"}, 
+{ "teacherName":"Zaib Un Nissa Hidayat", "designation": "SST (G)" , "level": "High", "cnic": "1620247133680", "contactNo": "0346-9809299"}, 
+{ "teacherName":"Shahana Munir", "designation": "SST (G)" , "level": "High", "cnic": "1620254994542", "contactNo": "0340-7616699"}, 
+{ "teacherName":"Hina Riaz", "designation": "SST (G)" , "level": "High", "cnic": "1620259339100", "contactNo": "0342-9640134"}, 
+{ "teacherName":"Ghazala Tabassum", "designation": "SST (G)" , "level": "High", "cnic": "3740504578516", "contactNo": "0332-9430394"}, 
+{ "teacherName":"Fozia Nazli", "designation": "SST (B/C)" , "level": "High", "cnic": "1620209049562", "contactNo": "0335-9452095"}, 
+{ "teacherName":"Nihar Yasmin", "designation": "S PET" , "level": "High", "cnic": "1620258973276", "contactNo": "0311-8148872"}, 
+{ "teacherName":"Safia Rahim", "designation": "S DM" , "level": "High", "cnic": "1620208560006", "contactNo": "0314-9772306"}, 
+{ "teacherName":"Bibi Fatima", "designation": "S CT" , "level": "High", "cnic": "1620209048608", "contactNo": "0315-9069148"}, 
+{ "teacherName":"Sahira Hashmat", "designation": "S CT" , "level": "High", "cnic": "1620209294116", "contactNo": "0316-9963978"}, 
+{ "teacherName":"Salma Ghufran", "designation": "S CT" , "level": "High", "cnic": "1620222685387", "contactNo": "0314-9887696"}, 
+{ "teacherName":"Mumlikat Begum", "designation": "S CT" , "level": "High", "cnic": "1620258227670", "contactNo": "0315-9228267"}, 
+{ "teacherName":"Balqees Bibi", "designation": "S CT" , "level": "High", "cnic": "1730112280164", "contactNo": "0345-9389123"}, 
+{ "teacherName":"Bibi Shafia", "designation": "S CT" , "level": "High", "cnic": "1730112382806", "contactNo": "0313-9780594"}, 
+{ "teacherName":"Farhat Deeba", "designation": "S AT" , "level": "High", "cnic": "1620294368742", "contactNo": "0332-9037631"}, 
+{ "teacherName":"samia khalil", "designation": "Qaria" , "level": "High", "cnic": "1620277140862", "contactNo": "0336-5331555"}, 
+{ "teacherName":"Zubaida Bibi", "designation": "Principal (B-19)" , "level": "High", "cnic": "1730124631748", "contactNo": "0332-9180278"}, 
+{ "teacherName":"Farzeen Gul", "designation": "CT" , "level": "High", "cnic": "1620234575244", "contactNo": "0314-9893916"}, 
+{ "teacherName":"somia gul", "designation": "CT" , "level": "High", "cnic": "1620237739494", "contactNo": "0313-9190578"}, 
+{ "teacherName":"Tamjeeda", "designation": "CT" , "level": "High", "cnic": "1620244800264", "contactNo": "0344-7678995"}, 
+{ "teacherName":"Shabeena naz", "designation": "CT" , "level": "High", "cnic": "1620255522792", "contactNo": "0310-9614930"}, 
+{ "teacherName":"Maria Hina", "designation": "CT" , "level": "High", "cnic": "1620291858394", "contactNo": "0336-9418095"}, 
+{ "teacherName":"Bibi Kalsoom", "designation": "CT" , "level": "High", "cnic": "1730125191072", "contactNo": "0314-9861771"}
+   ]
+  },
+  {
+    "schoolName": "GGHSS ADINA",
+    "EmisCode": " ",
+    "teachers": [
+      { "teacherName":"Gul naz begum", "designation": "SST (G)" , "level": "Higher Secondary", "cnic": "1620208568064", "contactNo": "0306-8306434"}, 
+{ "teacherName":"Asmat Ara", "designation": "SST (G)" , "level": "Higher Secondary", "cnic": "1620208791964", "contactNo": "0346-0980590"}, 
+{ "teacherName":"shah nasheen", "designation": "SST (G)" , "level": "Higher Secondary", "cnic": "1620287583854", "contactNo": "0"}, 
+{ "teacherName":"Naheed Jabeen", "designation": "SST (B/C)" , "level": "Higher Secondary", "cnic": "3740541650534", "contactNo": "0331-9599882"}, 
+{ "teacherName":"basria", "designation": "SS  (H/C)" , "level": "Higher Secondary", "cnic": "1620106937416", "contactNo": "0341-1022175"}, 
+{ "teacherName":"basmeen", "designation": "SS  (Che)" , "level": "Higher Secondary", "cnic": "1620208267978", "contactNo": "0331-9228894"}, 
+{ "teacherName":"gul naz", "designation": "SS  (Biology)" , "level": "Higher Secondary", "cnic": "1620263852398", "contactNo": "0313-9608891"}, 
+{ "teacherName":"shaheen begum", "designation": "S PET" , "level": "Higher Secondary", "cnic": "1620279703468", "contactNo": "0345-9500478"}, 
+{ "teacherName":"Jabeena naz", "designation": "S CT" , "level": "Higher Secondary", "cnic": "1610107170990", "contactNo": "0346-9801962"}, 
+{ "teacherName":"haleema", "designation": "S CT" , "level": "Higher Secondary", "cnic": "1620278156290", "contactNo": "0308-5711562"}, 
+{ "teacherName":"Fatima bibi", "designation": "S AT" , "level": "Higher Secondary", "cnic": "1620208159324", "contactNo": "0316-9513753"}, 
+{ "teacherName":"Zeenat begum", "designation": "Principal (B-18)" , "level": "Higher Secondary", "cnic": "1620208725560", "contactNo": "0345-9495094"}, 
+{ "teacherName":"Jasmeen naz", "designation": "I.P.E" , "level": "Higher Secondary", "cnic": "1620255461206", "contactNo": "0347-8397985"}, 
+{ "teacherName":"Zainab begum", "designation": "DM" , "level": "Higher Secondary", "cnic": "1620220521646", "contactNo": "0314-9377559"}, 
+{ "teacherName":"Muniba", "designation": "CT" , "level": "Higher Secondary", "cnic": "1620261287228", "contactNo": "0315-9585249"}, 
+{ "teacherName":"Nifaz bibi", "designation": "CT" , "level": "Higher Secondary", "cnic": "1620405942614", "contactNo": "0311-5884684"}, 
+{ "teacherName":"Nazish begum", "designation": "CT" , "level": "Higher Secondary", "cnic": "1610275566826", "contactNo": "0"} 
+   ]
   }
 ]
