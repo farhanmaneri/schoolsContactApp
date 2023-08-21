@@ -14,9 +14,12 @@
     const query = inputElem.value.trim().toLowerCase();
     const results = schools.filter(function (school) {
       // console.log(school.teachers)
-      return (school.schoolName.toLowerCase().includes(query)
+      // const result = school.teachers
+      return  (school.schoolName.toLowerCase().includes(query) 
+      ||
+        school.teachers.map((teacher => teacher.teacherName)).join().toLowerCase().includes(query)
         // ||  school.teachers.toLowerCase().includes(query)
-        // ||  school.teachers.join(" ").toLowerCase().includes(query)
+
         )
       });
 
@@ -28,7 +31,7 @@
   inputElem.addEventListener('keyup', function (event) {
     if (event.key === 'Enter') {
       event.preventDefault();
-      search();
+          search();
     }
   })
 
