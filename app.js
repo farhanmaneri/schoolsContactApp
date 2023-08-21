@@ -11,7 +11,7 @@
 
   // school search function
   function search() {
-    const query = inputElem.value.toLowerCase();
+    const query = inputElem.value.trim().toLowerCase();
     const results = schools.filter(function (school) {
       // console.log(school.teachers)
       return (school.schoolName.toLowerCase().includes(query)

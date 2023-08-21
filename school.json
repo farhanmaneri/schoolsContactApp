@@ -1473,5 +1473,160 @@
 { "teacherName":"Tahira Bano", "designation": "CT" , "level": "Higher Secondary", "cnic": "1620299471078", "contactNo": "0322-9973835"}, 
 { "teacherName":"Faiza Rehan", "designation": "CT" , "level": "Higher Secondary", "cnic": "3740687971770", "contactNo": "0344-5633466"} 
   ]
+  },
+  {
+    "schoolName": "GGMS ALADHER",
+    "emisCode": " ",
+    "teachers": [
+      { "teacherName":"Nadia Naz", "designation": "TT" , "level": "Middle", "cnic": "1620124282756", "contactNo": "0316-4040304"}, 
+      { "teacherName":"Naheeda", "designation": "SST (G)" , "level": "Middle", "cnic": "1620160644404", "contactNo": "0306-5712380"}, 
+      { "teacherName":"Asma", "designation": "PET" , "level": "Middle", "cnic": "1620153643454", "contactNo": "0315-9210670"}, 
+      { "teacherName":"Noorin Qaim", "designation": "AT" , "level": "Middle", "cnic": "1620250065808", "contactNo": "0335-9433779"} 
+      ]
+  },
+  {
+    "schoolName": "GGMS BADA",
+    "emisCode": " ",
+    "teachers": [
+      { "teacherName":"Abgeena Shaheen", "designation": "TT" , "level": "Middle", "cnic": "1620306055018", "contactNo": "0306-2099594"}, 
+      { "teacherName":"SADIA NAZ", "designation": "SST (G)" , "level": "Middle", "cnic": "1620208608388", "contactNo": "0303-9426299"}, 
+      { "teacherName":"Ambreen", "designation": "PET" , "level": "Middle", "cnic": "1620289846966", "contactNo": "0314-7073378"}, 
+      { "teacherName":"Maria", "designation": "DM" , "level": "Middle", "cnic": "1620306117186", "contactNo": "0315-9828405"}, 
+      { "teacherName":"Gulfam", "designation": "CT" , "level": "Middle", "cnic": "1620275263076", "contactNo": "0321-9399861"}, 
+      { "teacherName":"Rabia Zahid", "designation": "AT" , "level": "Middle", "cnic": "4200065587086", "contactNo": "0334-5507096"}
+        ]
+  },
+  {
+    "schoolName": "GGMS BAKAR SERAI",
+    "emisCode": " ",
+    "teachers": [
+      { "teacherName":"Nansy Gul", "designation": "TT" , "level": "Middle", "cnic": "1620230999266", "contactNo": "0308-9342297"}, 
+      { "teacherName":"Humaira", "designation": "SST (G)" , "level": "Middle", "cnic": "1610111604182", "contactNo": "0346-5552585"}, 
+      { "teacherName":"Gul rukh", "designation": "PET" , "level": "Middle", "cnic": "1620405967926", "contactNo": "0315-9452521"}, 
+      { "teacherName":"Salma Khan", "designation": "DM" , "level": "Middle", "cnic": "1620212953526", "contactNo": "0334-9581305"}, 
+      { "teacherName":"Aisha bibi", "designation": "CT" , "level": "Middle", "cnic": "1620297268206", "contactNo": "0335-9551534"}, 
+      { "teacherName":"Reshma", "designation": "AT" , "level": "Middle", "cnic": "1620286023402", "contactNo": "0348-5886880"} 
+        ]
+  },
+  {
+    "schoolName": "GGMS BASHARAT ABAD",
+    "emisCode": " ",
+    "teachers": [
+      { "teacherName":"Luban maryam", "designation": "TT" , "level": "Middle", "cnic": "4230148149812", "contactNo": "0348-7365765"}, 
+      { "teacherName":"Gul e nargis", "designation": "SST (G)" , "level": "Middle", "cnic": "1620247778498", "contactNo": "0312-5092955"}, 
+      { "teacherName":"Saqim-un-Naz", "designation": "PET" , "level": "Middle", "cnic": "1620273642822", "contactNo": "0340-9130053"}, 
+      { "teacherName":"Sunila Faras", "designation": "DM" , "level": "Middle", "cnic": "1620210946684", "contactNo": "0345-1590634"}, 
+      { "teacherName":"Nifaz begum", "designation": "CT" , "level": "Middle", "cnic": "1620208708084", "contactNo": "0349-9054496"}, 
+      { "teacherName":"Afshen begum", "designation": "CT" , "level": "Middle", "cnic": "1620208708102", "contactNo": "0343-5299402"}, 
+      { "teacherName":"Amina bibi", "designation": "AT" , "level": "Middle", "cnic": "1620126614918", "contactNo": "0341-9202844"} 
+       ]
+  },
+  {
+    "schoolName": "GGMS BAZARGI",
+    "emisCode": " ",
+    "teachers": [
+      { "teacherName":"Ghazala Yasmeen", "designation": "TT" , "level": "Middle", "cnic": "1620171307654", "contactNo": "0341-8171286"}, 
+      { "teacherName":"Nasim Nazir", "designation": "SST (G)" , "level": "Middle", "cnic": "1620106758148", "contactNo": "0346-9827071"}, 
+      { "teacherName":"huma", "designation": "PET" , "level": "Middle", "cnic": "1620120712544", "contactNo": "0348-1933798"}, 
+      { "teacherName":"Farah Naz", "designation": "DM" , "level": "Middle", "cnic": "1620295166594", "contactNo": "0345-9700252"}, 
+      { "teacherName":"Mujahida", "designation": "CT" , "level": "Middle", "cnic": "1620122663850", "contactNo": "0341-9159258"}, 
+      { "teacherName":"Sabin", "designation": "CT" , "level": "Middle", "cnic": "1620130838818", "contactNo": "0313-9969068"}, 
+      { "teacherName":"Naeema Gul", "designation": "CT" , "level": "Middle", "cnic": "1620196820058", "contactNo": "0300-5770190"}, 
+      { "teacherName":"Fareeha Gul", "designation": "AT" , "level": "Middle", "cnic": "1620102437250", "contactNo": "0316-1246789"}
+        ]
+  },
+  {
+    "schoolName": "GGMS BESAK",
+    "emisCode": " ",
+    "teachers": [
+      { "teacherName":"Gul Nasreen", "designation": "SST (G)" , "level": "Middle", "cnic": "1620208835500", "contactNo": "0313-5234834"}, 
+{ "teacherName":"Jannat Bibi", "designation": "DM" , "level": "Middle", "cnic": "1730112322416", "contactNo": "0312-3232011"}, 
+{ "teacherName":"Zaibunnisa", "designation": "CT" , "level": "Middle", "cnic": "1620201813522", "contactNo": "0335-9640869"}, 
+{ "teacherName":"Farzana", "designation": "CT" , "level": "Middle", "cnic": "1620255590662", "contactNo": "0332-5182898"}, 
+{ "teacherName":"Shazadi Sherzaman", "designation": "CT" , "level": "Middle", "cnic": "1620284304940", "contactNo": "0315-9067354"}, 
+{ "teacherName":"Niaz Fareen", "designation": "AT" , "level": "Middle", "cnic": "1620227233272", "contactNo": "0313-5542442"} 
+   ]
+  },
+  {
+    "schoolName": "GGMS CENTER SAPROONA",
+    "emisCode": " ",
+    "teachers": [
+      { "teacherName":"Fatima Tuz Zuhra", "designation": "TT" , "level": "Middle", "cnic": "1620149233022", "contactNo": "0302-5439679"}, 
+{ "teacherName":"Leena zeb", "designation": "SST (G)" , "level": "Middle", "cnic": "1620285002232", "contactNo": "9233-3510514"}, 
+{ "teacherName":"Shahana Raza", "designation": "PET" , "level": "Middle", "cnic": "1620210528362", "contactNo": "0349-0933615"}, 
+{ "teacherName":"Kausar Naz", "designation": "AT" , "level": "Middle", "cnic": "1620275412458", "contactNo": "0312-3376847"} 
+ ]
+  },
+  {
+    "schoolName": "GGMS BADA",
+    "emisCode": " ",
+    "teachers": [
+      { "teacherName":"Abgeena Shaheen", "designation": "TT" , "level": "Middle", "cnic": "1620306055018", "contactNo": "0306-2099594"}, 
+      { "teacherName":"SADIA NAZ", "designation": "SST (G)" , "level": "Middle", "cnic": "1620208608388", "contactNo": "0303-9426299"}, 
+      { "teacherName":"Ambreen", "designation": "PET" , "level": "Middle", "cnic": "1620289846966", "contactNo": "0314-7073378"}, 
+      { "teacherName":"Maria", "designation": "DM" , "level": "Middle", "cnic": "1620306117186", "contactNo": "0315-9828405"}, 
+      { "teacherName":"Gulfam", "designation": "CT" , "level": "Middle", "cnic": "1620275263076", "contactNo": "0321-9399861"}, 
+      { "teacherName":"Rabia Zahid", "designation": "AT" , "level": "Middle", "cnic": "4200065587086", "contactNo": "0334-5507096"}
+        ]
+  },
+  {
+    "schoolName": "GGMS BADA",
+    "emisCode": " ",
+    "teachers": [
+      { "teacherName":"Abgeena Shaheen", "designation": "TT" , "level": "Middle", "cnic": "1620306055018", "contactNo": "0306-2099594"}, 
+      { "teacherName":"SADIA NAZ", "designation": "SST (G)" , "level": "Middle", "cnic": "1620208608388", "contactNo": "0303-9426299"}, 
+      { "teacherName":"Ambreen", "designation": "PET" , "level": "Middle", "cnic": "1620289846966", "contactNo": "0314-7073378"}, 
+      { "teacherName":"Maria", "designation": "DM" , "level": "Middle", "cnic": "1620306117186", "contactNo": "0315-9828405"}, 
+      { "teacherName":"Gulfam", "designation": "CT" , "level": "Middle", "cnic": "1620275263076", "contactNo": "0321-9399861"}, 
+      { "teacherName":"Rabia Zahid", "designation": "AT" , "level": "Middle", "cnic": "4200065587086", "contactNo": "0334-5507096"} 
+        ]
+  },
+  {
+    "schoolName": "GGMS BADA",
+    "emisCode": " ",
+    "teachers": [
+      { "teacherName":"Abgeena Shaheen", "designation": "TT" , "level": "Middle", "cnic": "1620306055018", "contactNo": "0306-2099594"}, 
+      { "teacherName":"SADIA NAZ", "designation": "SST (G)" , "level": "Middle", "cnic": "1620208608388", "contactNo": "0303-9426299"}, 
+      { "teacherName":"Ambreen", "designation": "PET" , "level": "Middle", "cnic": "1620289846966", "contactNo": "0314-7073378"}, 
+      { "teacherName":"Maria", "designation": "DM" , "level": "Middle", "cnic": "1620306117186", "contactNo": "0315-9828405"}, 
+      { "teacherName":"Gulfam", "designation": "CT" , "level": "Middle", "cnic": "1620275263076", "contactNo": "0321-9399861"}, 
+      { "teacherName":"Rabia Zahid", "designation": "AT" , "level": "Middle", "cnic": "4200065587086", "contactNo": "0334-5507096"} 
+        ]
+  },
+  {
+    "schoolName": "GGMS BADA",
+    "emisCode": " ",
+    "teachers": [
+      { "teacherName":"Abgeena Shaheen", "designation": "TT" , "level": "Middle", "cnic": "1620306055018", "contactNo": "0306-2099594"}, 
+      { "teacherName":"SADIA NAZ", "designation": "SST (G)" , "level": "Middle", "cnic": "1620208608388", "contactNo": "0303-9426299"}, 
+      { "teacherName":"Ambreen", "designation": "PET" , "level": "Middle", "cnic": "1620289846966", "contactNo": "0314-7073378"}, 
+      { "teacherName":"Maria", "designation": "DM" , "level": "Middle", "cnic": "1620306117186", "contactNo": "0315-9828405"}, 
+      { "teacherName":"Gulfam", "designation": "CT" , "level": "Middle", "cnic": "1620275263076", "contactNo": "0321-9399861"}, 
+      { "teacherName":"Rabia Zahid", "designation": "AT" , "level": "Middle", "cnic": "4200065587086", "contactNo": "0334-5507096"}
+        ]
+  },
+  {
+    "schoolName": "GGMS BADA",
+    "emisCode": " ",
+    "teachers": [
+      { "teacherName":"Abgeena Shaheen", "designation": "TT" , "level": "Middle", "cnic": "1620306055018", "contactNo": "0306-2099594"}, 
+      { "teacherName":"SADIA NAZ", "designation": "SST (G)" , "level": "Middle", "cnic": "1620208608388", "contactNo": "0303-9426299"}, 
+      { "teacherName":"Ambreen", "designation": "PET" , "level": "Middle", "cnic": "1620289846966", "contactNo": "0314-7073378"}, 
+      { "teacherName":"Maria", "designation": "DM" , "level": "Middle", "cnic": "1620306117186", "contactNo": "0315-9828405"}, 
+      { "teacherName":"Gulfam", "designation": "CT" , "level": "Middle", "cnic": "1620275263076", "contactNo": "0321-9399861"}, 
+      { "teacherName":"Rabia Zahid", "designation": "AT" , "level": "Middle", "cnic": "4200065587086", "contactNo": "0334-5507096"} 
+        ]
+  },
+  {
+    "schoolName": "GGMS BADA",
+    "emisCode": " ",
+    "teachers": [
+      { "teacherName":"Abgeena Shaheen", "designation": "TT" , "level": "Middle", "cnic": "1620306055018", "contactNo": "0306-2099594"}, 
+      { "teacherName":"SADIA NAZ", "designation": "SST (G)" , "level": "Middle", "cnic": "1620208608388", "contactNo": "0303-9426299"}, 
+      { "teacherName":"Ambreen", "designation": "PET" , "level": "Middle", "cnic": "1620289846966", "contactNo": "0314-7073378"}, 
+      { "teacherName":"Maria", "designation": "DM" , "level": "Middle", "cnic": "1620306117186", "contactNo": "0315-9828405"}, 
+      { "teacherName":"Gulfam", "designation": "CT" , "level": "Middle", "cnic": "1620275263076", "contactNo": "0321-9399861"}, 
+      { "teacherName":"Rabia Zahid", "designation": "AT" , "level": "Middle", "cnic": "4200065587086", "contactNo": "0334-5507096"} 
+        ]
   }
 ]
