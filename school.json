@@ -1558,16 +1558,15 @@
  ]
   },
   {
-    "schoolName": "GGMS BADA",
+    "schoolName": "GGMS CHANAI",
     "emisCode": " ",
     "teachers": [
-      { "teacherName":"Abgeena Shaheen", "designation": "TT" , "level": "Middle", "cnic": "1620306055018", "contactNo": "0306-2099594"}, 
-      { "teacherName":"SADIA NAZ", "designation": "SST (G)" , "level": "Middle", "cnic": "1620208608388", "contactNo": "0303-9426299"}, 
-      { "teacherName":"Ambreen", "designation": "PET" , "level": "Middle", "cnic": "1620289846966", "contactNo": "0314-7073378"}, 
-      { "teacherName":"Maria", "designation": "DM" , "level": "Middle", "cnic": "1620306117186", "contactNo": "0315-9828405"}, 
-      { "teacherName":"Gulfam", "designation": "CT" , "level": "Middle", "cnic": "1620275263076", "contactNo": "0321-9399861"}, 
-      { "teacherName":"Rabia Zahid", "designation": "AT" , "level": "Middle", "cnic": "4200065587086", "contactNo": "0334-5507096"}
-        ]
+      { "teacherName":"Rabbah Naeem", "designation": "SST (G)" , "level": "Middle", "cnic": "1620306069246", "contactNo": "0345-9491868"}, 
+{ "teacherName":"Aneela Begum", "designation": "PET" , "level": "Middle", "cnic": "1620250234184", "contactNo": "0312-9160076"}, 
+{ "teacherName":"Laila Kamal", "designation": "DM" , "level": "Middle", "cnic": "1620139346440", "contactNo": "0332-9710680"}, 
+{ "teacherName":"Saba Anwar", "designation": "CT" , "level": "Middle", "cnic": "1620244421424", "contactNo": "0000-0000000"}, 
+{ "teacherName":"Raqia Naz", "designation": "AT" , "level": "Middle", "cnic": "1620105487866", "contactNo": "0348-9805186"} 
+  ]
   },
   {
     "schoolName": "GGMS BADA",
